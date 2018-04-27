@@ -1,0 +1,30 @@
+.slicknav_btn{position:absolute;top:28px;right:8px;}
+.slicknav_menu .slicknav_icon{float:left;margin:4px 4.5px 0 4.5px;}
+.slicknav_menu .slicknav_no-text{margin:0;}
+.slicknav_menu .slicknav_icon-bar{display:block;width:24px;height:2px;border-radius:4px;-webkit-transition:all 0.2s;transition:all 0.2s;}
+.slicknav_btn .slicknav_icon-bar + .slicknav_icon-bar{margin-top:6px;}
+.slicknav_menu:before{display:table;content:" ";}
+.slicknav_menu:after{display:table;content:" ";clear:both;}
+.slicknav_menu > ul{position:absolute;z-index:999;width:100%;left:0;background-color:#f5f6f7;border-bottom:1px solid #e2e5e8;box-shadow: 0 3px 8px -3px rgba(0,0,0,0.3);opacity:0.96;}
+.slicknav_menu{width:100%;-webkit-box-sizing:border-box;box-sizing:border-box;font-size:16px;}
+.slicknav_menu *{box-sizing:border-box;}
+.slicknav_menu .slicknav_menutxt{display:block;font-size:12px;font-size:1.2rem;color:#999;}
+.slicknav_nav{clear:both;}
+.slicknav_nav li{border-top:1px solid #e2e5e8;display:block;}
+.slicknav_nav .slicknav_arrow{font-size:0.8em;margin:0 0 0 0.4em;}
+.slicknav_nav .slicknav_item{cursor:pointer;}
+.slicknav_nav .slicknav_item a{display:inline;}
+.slicknav_nav .slicknav_row{display:block;}
+.slicknav_nav .slicknav_parent-link a{display:inline;}
+.slicknav_brand{float:left;}
+.slicknav_nav{margin:0;padding:0;list-style:none;overflow:hidden;font-size:0.875em;}
+.slicknav_nav ul{list-style:none;padding:0 0 0 16px;overflow:hidden;}
+.slicknav_nav .slicknav_row:hover{border-radius:2px;}
+.slicknav_nav a{display:block;padding:16px 8px;text-decoration:none;color:#303030;}
+.slicknav_nav .slicknav_txtnode{margin-left:16px;}
+.slicknav_nav .slicknav_item a{padding:0;margin:0;}
+.slicknav_nav .slicknav_parent-link a{padding:0;margin:0;}
+.slicknav_brand{height:44px;font-size:18px;line-height:30px;padding:7px 12px;color:#fff;}
+.slicknav_active_btn span:nth-of-type(1){-webkit-transform:translateY(8px) rotate(-45deg);transform:translateY(8px) rotate(-45deg);}
+.slicknav_active_btn span:nth-of-type(2){opacity:0;}
+.slicknav_active_btn span:nth-of-type(3){-webkit-transform:translateY(-8px) rotate(45deg);transform:translateY(-8px) rotate(45deg);}

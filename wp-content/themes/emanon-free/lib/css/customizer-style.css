@@ -1,0 +1,24 @@
+/*
+Theme Name: Emanon Free
+Description: Used to customizer
+
+*/
+
+#accordion-panel-emanon_landing_page_settings .accordion-section-title:after,
+#accordion-section-emanon_author_profile_options .accordion-section-title:after,
+#accordion-section-emanon_cta_page_options .accordion-section-title:after,
+#accordion-section-emanon_cta_footer_section .accordion-section-title:after,
+#accordion-section-emanon_slider_image .accordion-section-title:after,
+#accordion-section-emanon_header_video .accordion-section-title:after,
+#accordion-section-emanon_slider_content .accordion-section-title:after,
+#accordion-section-emanon_pagebox_section .accordion-section-title:after,
+#accordion-section-emanon_eyecatch_image .accordion-section-title:after,
+#accordion-section-emanon_h_style_options .accordion-section-title:after,
+#accordion-section-emanon_html_optimized .accordion-section-title:after,
+#accordion-section-emanon_cta_potential_options .accordion-section-title:after,
+#accordion-section-emanon_cta_eventually_options .accordion-section-title:after,
+#accordion-section-emanon_cta_compare_options .accordion-section-title:after,
+#accordion-section-emanon_cta_prospect_options .accordion-section-title:after,
+#accordion-section-emanon_cta_popup_options .accordion-section-title:after,
+#accordion-section-emanon_mobile_footer_btn_options .accordion-section-title:after
+{content: "\f160";}

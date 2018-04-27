@@ -1,0 +1,3429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: emanon ver1.0\n"
+"POT-Creation-Date: 2017-10-23 10:17+0900\n"
+"PO-Revision-Date: 2017-10-23 10:17+0900\n"
+"Last-Translator: innocord <y_kohira@innocord.co.jp>\n"
+"Language-Team: innocord <contact@innocord.co.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-templates/archive/left-sidebar-archive.php:17
+#: blog-templates/archive/no-sidebar-archive.php:17
+#: blog-templates/archive/right-sidebar-archive.php:17
+msgid "404 File not found."
+msgstr "404 File not found."
+
+#: blog-templates/archive/left-sidebar-archive.php:19
+#: blog-templates/archive/no-sidebar-archive.php:19
+#: blog-templates/archive/right-sidebar-archive.php:19
+msgid "Search Word"
+msgstr "検索ワード："
+
+#: blog-templates/archive/left-sidebar-archive.php:19
+#: blog-templates/archive/no-sidebar-archive.php:19
+#: blog-templates/archive/right-sidebar-archive.php:19
+msgid "Number"
+msgstr "件"
+
+#: blog-templates/front/front-left-sidebar.php:8
+#: blog-templates/front/front-no-sidebar.php:8
+#: blog-templates/front/front-right-sidebar.php:8
+#: lib/customizer-panels/front-page-panel.php:320
+msgid "Latest Posts"
+msgstr "最新記事"
+
+#: comments.php:15
+msgid "Comments"
+msgstr "コメント"
+
+#: comments.php:26
+msgid "Never e-mail address is published"
+msgstr "メールアドレスは公開されることはありません。"
+
+#: comments.php:28
+msgid "Commenter name"
+msgstr "氏名"
+
+#: comments.php:28 comments.php:30
+msgid "Required"
+msgstr "［必須］"
+
+#: comments.php:30
+msgid "Commenter email"
+msgstr "メールアドレス"
+
+#: comments.php:33
+msgid "comment"
+msgstr "コメント"
+
+#: content-archive.php:26 content-home.php:26 content-search.php:25
+msgid "Previous"
+msgstr "前へ"
+
+#: content-archive.php:26 content-home.php:26 content-search.php:25
+msgid "Next"
+msgstr "次へ"
+
+#: content-author.php:14 content-page.php:14 content.php:19 functions.php:182
+msgid "Edit"
+msgstr "編集"
+
+#: content-author.php:45
+msgid "Post List"
+msgstr "記事一覧"
+
+#: content-none.php:12
+msgid "Oops! That page cannot be found."
+msgstr "ページが見つかりません"
+
+#: content-none.php:13
+msgid ""
+"The page you were trying to access does not exist or has been removed. Maybe "
+"check URL or Find page again from the following methods."
+msgstr ""
+"あなたがアクセスしようとしたページは削除されたかURLが変更されています。URLを"
+"ご確認いただくか、ページ検索または下記カテゴリーからお探しください。"
+
+#: content-none.php:16
+msgid "Find page in search box."
+msgstr "検索してページを探す"
+
+#: content-none.php:17
+msgid "Enter the keyword related to entry looking for in the search box."
+msgstr ""
+"検索ボックスにお探しのページに関連するキーワードを入力し、検索ボタンをクリッ"
+"クしてください。"
+
+#: content-none.php:19
+msgid "Find page from the category list."
+msgstr "カテゴリーリストからページを探す"
+
+#: content-search.php:32
+msgid "Nothing found."
+msgstr "Nothing found."
+
+#: content-search.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検"
+"索してみてください。"
+
+#: functions.php:33
+msgid "Header menu"
+msgstr "ヘッダーメニュー"
+
+#: functions.php:34
+msgid "Header fixed menu"
+msgstr "ヘッダー位置固定メニュー（サブメニュー不可）"
+
+#: functions.php:35
+msgid "Footer menu"
+msgstr "フッターメニュー（サブメニュー不可）"
+
+#: functions.php:181
+msgid "Reply"
+msgstr "返信"
+
+#: lib/customizer-panels/ad-panel.php:15 lib/theme-setup.php:39
+msgid "AD settings"
+msgstr "広告設定"
+
+#: lib/customizer-panels/ad-panel.php:22
+msgid "Display ad"
+msgstr "広告の表示ページ"
+
+#: lib/customizer-panels/ad-panel.php:23
+msgid "Paste ad code in the widget is required."
+msgstr ""
+"広告を表示するには、ウィジェットに広告コードを貼り付ける必要があります。"
+
+#: lib/customizer-panels/ad-panel.php:35
+msgid "Display ad on list page"
+msgstr "フロントページ及びアーカイブページに広告を表示する"
+
+#: lib/customizer-panels/ad-panel.php:49
+msgid "Display ad on single page"
+msgstr "投稿ページに広告を表示する"
+
+#: lib/customizer-panels/ad-panel.php:63
+msgid "Display ad on page"
+msgstr "固定ページに広告を表示する"
+
+#: lib/customizer-panels/ad-panel.php:72 lib/theme-tags.php:1108
+msgid "Sponsor link"
+msgstr "スポンサーリンク"
+
+#: lib/customizer-panels/ad-panel.php:77
+msgid "Ad label"
+msgstr "広告ラベル"
+
+#: lib/customizer-panels/ad-panel.php:88
+msgid "Display ad position"
+msgstr "広告の表示位置"
+
+#: lib/customizer-panels/ad-panel.php:89
+msgid "Selection of display position until a maximum of three."
+msgstr "表示位置：下記から最大３つまで選択してください。"
+
+#: lib/customizer-panels/ad-panel.php:101
+msgid "Side bar ad 300px 250px"
+msgstr "サイドバー広告 300px 250px"
+
+#: lib/customizer-panels/ad-panel.php:115
+msgid "Article h2 over left ad 300px 250px"
+msgstr "h2の左上 広告 300px 250px"
+
+#: lib/customizer-panels/ad-panel.php:129
+msgid "Article h2 over right ad 300px 250px"
+msgstr "h2の右上 広告 300px 250px"
+
+#: lib/customizer-panels/ad-panel.php:143
+msgid "Article under left ad 300px 250px"
+msgstr "ページ左下 広告 300px 250px"
+
+#: lib/customizer-panels/ad-panel.php:157
+msgid "Article under right ad 300px 250px"
+msgstr "ページ右下 広告 300px 250px"
+
+#: lib/customizer-panels/content-panel.php:15 lib/theme-setup.php:34
+msgid "Content settings"
+msgstr "コンテンツ設定"
+
+#: lib/customizer-panels/content-panel.php:22
+msgid "Breadcrumb options"
+msgstr "パンくずリスト"
+
+#: lib/customizer-panels/content-panel.php:34
+msgid "Display the breadcrumb in single post"
+msgstr "投稿ページに表示"
+
+#: lib/customizer-panels/content-panel.php:48
+msgid "Display the breadcrumb in archive"
+msgstr "アーカイブページに表示"
+
+#: lib/customizer-panels/content-panel.php:62
+msgid "Display the breadcrumb in page"
+msgstr "固定ページに表示"
+
+#: lib/customizer-panels/content-panel.php:73
+msgid "Post tag options"
+msgstr "投稿タグ"
+
+#: lib/customizer-panels/content-panel.php:74
+msgid "Display setting of the post page."
+msgstr "投稿ページのタグ表示設定"
+
+#: lib/customizer-panels/content-panel.php:86
+#: lib/customizer-panels/template-panel.php:164
+msgid "Display date"
+msgstr "投稿日の表示"
+
+#: lib/customizer-panels/content-panel.php:100
+#: lib/customizer-panels/template-panel.php:178
+msgid "Display updade date"
+msgstr "更新日の表示"
+
+#: lib/customizer-panels/content-panel.php:114
+#: lib/customizer-panels/template-panel.php:192
+msgid "Display category"
+msgstr "カテゴリーの表示"
+
+#: lib/customizer-panels/content-panel.php:128
+#: lib/customizer-panels/template-panel.php:206
+msgid "Display tag"
+msgstr "タグの表示"
+
+#: lib/customizer-panels/content-panel.php:142
+#: lib/customizer-panels/template-panel.php:220
+msgid "Display comments number"
+msgstr "コメント数の表示"
+
+#: lib/customizer-panels/content-panel.php:156
+#: lib/customizer-panels/template-panel.php:234
+msgid "Display author"
+msgstr "投稿者名の表示"
+
+#: lib/customizer-panels/content-panel.php:167
+msgid "SNS share options"
+msgstr "SNSシェアボタン"
+
+#: lib/customizer-panels/content-panel.php:179
+msgid "SNS share top position"
+msgstr "コンテンツ上部表示"
+
+#: lib/customizer-panels/content-panel.php:193
+msgid "SNS share bottom position"
+msgstr "コンテンツ下部表示"
+
+#: lib/customizer-panels/content-panel.php:218
+msgid "Display twitter btn"
+msgstr "Twitterの表示"
+
+#: lib/customizer-panels/content-panel.php:232
+msgid "Display facebook btn"
+msgstr "Facebookの表示"
+
+#: lib/customizer-panels/content-panel.php:246
+msgid "Display hatena btn"
+msgstr "Hatenaの表示"
+
+#: lib/customizer-panels/content-panel.php:260
+msgid "Display google+ btn"
+msgstr "Google+の表示"
+
+#: lib/customizer-panels/content-panel.php:274
+msgid "Display pocket btn"
+msgstr "Pocketの表示"
+
+#: lib/customizer-panels/content-panel.php:285
+msgid "H tag style options"
+msgstr "hタグ設定"
+
+#: lib/customizer-panels/content-panel.php:303
+msgid "Author profile option"
+msgstr "投稿者プロフィール"
+
+#: lib/customizer-panels/content-panel.php:320
+msgid "SNS follow options"
+msgstr "SNSフォローボタン"
+
+#: lib/customizer-panels/content-panel.php:332
+msgid "Display sns follow btn"
+msgstr "SNSフォローボタンの表示"
+
+#: lib/customizer-panels/content-panel.php:341
+msgid "Follow me on sns"
+msgstr "SNSでフォローしよう"
+
+#: lib/customizer-panels/content-panel.php:346
+msgid "SNS follow title"
+msgstr "タイトル"
+
+#: lib/customizer-panels/content-panel.php:367
+msgid "Display twitter follow btn"
+msgstr "Twitterフォローボタンの表示"
+
+#: lib/customizer-panels/content-panel.php:376
+msgid "Related post options"
+msgstr "関連記事"
+
+#: lib/customizer-panels/content-panel.php:388
+msgid "Display prev link and next link"
+msgstr "前の記事・次の記事の表示"
+
+#: lib/customizer-panels/content-panel.php:402
+msgid "Display related Post"
+msgstr "関連記事の表示"
+
+#: lib/customizer-panels/content-panel.php:416
+msgid "Maximum number of posts per related posts (default 4)"
+msgstr "関連記事の表示件数（初期値：4)"
+
+#: lib/customizer-panels/content-panel.php:431
+msgid "Mobile footer buttons options"
+msgstr "モバイルフッターボタン"
+
+#: lib/customizer-panels/cta-panel.php:15 lib/theme-setup.php:38
+msgid "CTA settings"
+msgstr "CTA設定"
+
+#: lib/customizer-panels/cta-panel.php:22
+msgid "Display cta option"
+msgstr "CTA表示設定"
+
+#: lib/customizer-panels/cta-panel.php:34
+msgid "Display single cta"
+msgstr "CTA（投稿ページ）の表示"
+
+#: lib/customizer-panels/cta-panel.php:45
+msgid "Calls to action for common option"
+msgstr "CTA設定（共通）"
+
+#: lib/customizer-panels/cta-panel.php:57
+msgid "CTA layout type"
+msgstr "画像レイアウト"
+
+#: lib/customizer-panels/cta-panel.php:62
+msgid "CTA left layout"
+msgstr "左配置"
+
+#: lib/customizer-panels/cta-panel.php:63
+msgid "CTA center layout"
+msgstr "中央配置"
+
+#: lib/customizer-panels/cta-panel.php:64
+msgid "CTA right layout"
+msgstr "右配置"
+
+#: lib/customizer-panels/cta-panel.php:75
+msgid "CTA image"
+msgstr "画像"
+
+#: lib/customizer-panels/cta-panel.php:89
+msgid "CTA title"
+msgstr "タイトル"
+
+#: lib/customizer-panels/cta-panel.php:103
+msgid "CTA text"
+msgstr "テキスト"
+
+#: lib/customizer-panels/cta-panel.php:117
+msgid "CTA button url"
+msgstr "ボタンURL"
+
+#: lib/customizer-panels/cta-panel.php:131
+msgid "CTA button text"
+msgstr "ボタンテキスト"
+
+#: lib/customizer-panels/cta-panel.php:145
+msgid "CTA Contact Form7"
+msgstr "Contact Form7 タグ"
+
+#: lib/customizer-panels/cta-panel.php:146
+msgid "Input short code example [contact-form-7 id=\"XXXX\" title=\"XXXXX\"]"
+msgstr ""
+"プラグインContact Form7のタグを入力します。例 [contact-form-7 id=\"XXXX\" "
+"title=\"XXXXX\"]"
+
+#: lib/customizer-panels/cta-panel.php:160
+msgid "CTA background color"
+msgstr "背景色"
+
+#: lib/customizer-panels/cta-panel.php:173
+msgid "CTA title color"
+msgstr "タイトル"
+
+#: lib/customizer-panels/cta-panel.php:186
+msgid "CTA text color"
+msgstr "テキスト"
+
+#: lib/customizer-panels/cta-panel.php:199
+msgid "CTA button background color"
+msgstr "ボタン"
+
+#: lib/customizer-panels/cta-panel.php:212
+msgid "CTA button text color"
+msgstr "ボタンテキスト"
+
+#: lib/customizer-panels/cta-panel.php:222
+msgid "Calls to action for potential option"
+msgstr "CTA設定（潜在客）"
+
+#: lib/customizer-panels/cta-panel.php:240
+msgid "Calls to action for eventually option"
+msgstr "CTA設定（そのうち客）"
+
+#: lib/customizer-panels/cta-panel.php:258
+msgid "Calls to action for compare option"
+msgstr "CTA設定（比較客）"
+
+#: lib/customizer-panels/cta-panel.php:276
+msgid "Calls to action for prospect option"
+msgstr "CTA設定（見込み客）"
+
+#: lib/customizer-panels/cta-panel.php:294
+msgid "CTA footer section settings"
+msgstr "CTA設定（フッター）"
+
+#: lib/customizer-panels/cta-panel.php:312
+msgid "Calls to action popup option"
+msgstr "CTA設定（PopUp）"
+
+#: lib/customizer-panels/footer-panel.php:15 lib/theme-setup.php:35
+msgid "Footer settings"
+msgstr "フッター設定"
+
+#: lib/customizer-panels/footer-panel.php:22
+#: lib/customizer-panels/header-panel.php:22
+msgid "Layout design"
+msgstr "レイアウトデザイン"
+
+#: lib/customizer-panels/footer-panel.php:34
+msgid "Display top page btn"
+msgstr "トップへ戻るボタンの表示"
+
+#: lib/customizer-panels/front-page-panel.php:15 lib/theme-setup.php:36
+msgid "Front page settings"
+msgstr "フロントページ設定"
+
+#: lib/customizer-panels/front-page-panel.php:22
+msgid "First View layout settings"
+msgstr "ファーストビューレイアウト設定"
+
+#: lib/customizer-panels/front-page-panel.php:34
+msgid "First View layout type"
+msgstr "ファーストビューの表示"
+
+#: lib/customizer-panels/front-page-panel.php:39
+msgid "No display"
+msgstr "ファーストビューなし"
+
+#: lib/customizer-panels/front-page-panel.php:40
+msgid "Featured"
+msgstr "おすすめ記事セクション"
+
+#: lib/customizer-panels/front-page-panel.php:49
+msgid "Slider section settings"
+msgstr "スライダーセクション設定"
+
+#: lib/customizer-panels/front-page-panel.php:67
+msgid "Slider content section settings"
+msgstr "スライダーコンテンツセクション設定"
+
+#: lib/customizer-panels/front-page-panel.php:85
+msgid "Featured section settings"
+msgstr "おすすめ記事セクション設定"
+
+#: lib/customizer-panels/front-page-panel.php:97
+msgid "Featured article type"
+msgstr "表示ページ設定"
+
+#: lib/customizer-panels/front-page-panel.php:102
+msgid "Display post"
+msgstr "投稿ページを表示"
+
+#: lib/customizer-panels/front-page-panel.php:103
+msgid "Display page"
+msgstr "固定ページを表示"
+
+#: lib/customizer-panels/front-page-panel.php:115
+msgid "Featured display type"
+msgstr "表示タイプ"
+
+#: lib/customizer-panels/front-page-panel.php:120
+msgid "Display New arrivals"
+msgstr "新着記事（自動表示）"
+
+#: lib/customizer-panels/front-page-panel.php:121
+msgid "Display Featured"
+msgstr "おすすめ記事（手動表示）"
+
+#: lib/customizer-panels/front-page-panel.php:133
+msgid "Number of entry (default 3)"
+msgstr "表示件数（初期値：3)"
+
+#: lib/customizer-panels/front-page-panel.php:146
+#: lib/modules/sections/section-top-featured.php:8
+msgid "PICK UP"
+msgstr "PICK UP"
+
+#: lib/customizer-panels/front-page-panel.php:151
+msgid "Section label"
+msgstr "ラベル"
+
+#: lib/customizer-panels/front-page-panel.php:165
+msgid "Featured background color"
+msgstr "背景色"
+
+#: lib/customizer-panels/front-page-panel.php:178
+msgid "Featured background image"
+msgstr "背景画像"
+
+#: lib/customizer-panels/front-page-panel.php:179
+msgid "Image size recommended width 1920px height 400px."
+msgstr "画像サイズは1920px 400pxを推奨します。"
+
+#: lib/customizer-panels/front-page-panel.php:192
+msgid "Featured background image opacity"
+msgstr "背景画像の透過率"
+
+#: lib/customizer-panels/front-page-panel.php:211
+msgid "Featured background image blur (default 0)"
+msgstr "背景のブラー（初期値0)"
+
+#: lib/customizer-panels/front-page-panel.php:228
+msgid "Display overlay pattern"
+msgstr "パターンフィルター"
+
+#: lib/customizer-panels/front-page-panel.php:233
+msgid "None display pattern"
+msgstr "フィルターなし"
+
+#: lib/customizer-panels/front-page-panel.php:234
+msgid "Display display pattern dots"
+msgstr "ドット柄"
+
+#: lib/customizer-panels/front-page-panel.php:235
+msgid "Display pattern diamond"
+msgstr "チェック柄"
+
+#: lib/customizer-panels/front-page-panel.php:244
+msgid "Page box section settings"
+msgstr "ページボックスセクション設定"
+
+#: lib/customizer-panels/front-page-panel.php:263
+msgid "Video section settings"
+msgstr "動画ヘッダーセクション設定"
+
+#: lib/customizer-panels/front-page-panel.php:281
+msgid "Eye catch section settings"
+msgstr "アイキャッチセクション設定"
+
+#: lib/customizer-panels/front-page-panel.php:299
+msgid "Entry section settings"
+msgstr "記事セクション設定"
+
+#: lib/customizer-panels/front-page-panel.php:311
+msgid "Display Entry section"
+msgstr "記事セクションの表示"
+
+#: lib/customizer-panels/front-page-panel.php:325
+msgid "Entry section title"
+msgstr "記事セクションのタイトル"
+
+#: lib/customizer-panels/general-panel.php:15 lib/theme-setup.php:32
+msgid "General settings"
+msgstr "全般設定"
+
+#: lib/customizer-panels/general-panel.php:22
+msgid "Header meta tage"
+msgstr "メタタグ"
+
+#: lib/customizer-panels/general-panel.php:23
+msgid "Meta tag set of front page (optional)."
+msgstr "フロントページ用メタタグ設定"
+
+#: lib/customizer-panels/general-panel.php:35
+msgid "Meta keywords"
+msgstr "meta keywordsの設定"
+
+#: lib/customizer-panels/general-panel.php:49
+msgid "Meta description"
+msgstr "meta descriptionの設定"
+
+#: lib/customizer-panels/general-panel.php:59
+msgid "Facebook OGP"
+msgstr "Facebook OPG"
+
+#: lib/customizer-panels/general-panel.php:71
+msgid "Display facebook opg meta tag"
+msgstr "Facebook OPGタグの表示"
+
+#: lib/customizer-panels/general-panel.php:85
+msgid "Facebook application id"
+msgstr "Facebook application id"
+
+#: lib/customizer-panels/general-panel.php:99
+msgid "Facebook OGP image"
+msgstr "Facebook OGP画像"
+
+#: lib/customizer-panels/general-panel.php:109
+msgid "Twitter card"
+msgstr "Twitterカード"
+
+#: lib/customizer-panels/general-panel.php:121
+msgid "Display twitter cards meta tag"
+msgstr "Twitterカードの表示"
+
+#: lib/customizer-panels/general-panel.php:135
+msgid "Twitter card type"
+msgstr "Twiiterカードの設定"
+
+#: lib/customizer-panels/general-panel.php:140
+msgid "Summary"
+msgstr "Summaryカード"
+
+#: lib/customizer-panels/general-panel.php:141
+msgid "Summary large image"
+msgstr "大きな画像付きのSummaryカード"
+
+#: lib/customizer-panels/general-panel.php:153
+msgid "Twitter id"
+msgstr "Twitter ID"
+
+#: lib/customizer-panels/general-panel.php:154
+msgid "Enter the ID including @ mark."
+msgstr "@を含むIDを入力してください。"
+
+#: lib/customizer-panels/general-panel.php:168
+msgid "Twitter OGP image"
+msgstr "Twitter OGP画像"
+
+#: lib/customizer-panels/general-panel.php:178
+msgid "Google tracking tag"
+msgstr "Googleトラッキングタグ"
+
+#: lib/customizer-panels/general-panel.php:190
+msgid "Google analytics tracking ID"
+msgstr "Googleアナリティクス トラッキングID"
+
+#: lib/customizer-panels/general-panel.php:191
+msgid "Input example UA-XXXXXXXX-XX"
+msgstr "入力例 UA-XXXXXXXX-XX"
+
+#: lib/customizer-panels/general-panel.php:205
+msgid "Google tag manager container ID"
+msgstr "Googleタグマネージャー コンテナID"
+
+#: lib/customizer-panels/general-panel.php:206
+msgid "Input example GTM-XXXXXXX"
+msgstr "入力例 GTM-XXXXXXX"
+
+#: lib/customizer-panels/general-panel.php:217
+msgid "SNS follow url"
+msgstr "SNSフォローURL"
+
+#: lib/customizer-panels/general-panel.php:229
+msgid "Twitter profile url"
+msgstr "Twitter URLの設定"
+
+#: lib/customizer-panels/general-panel.php:243
+msgid "Facebooke profile url"
+msgstr "Facebook URLの設定"
+
+#: lib/customizer-panels/general-panel.php:257
+msgid "GooglePlus profile url"
+msgstr "Google+ URLの設定"
+
+#: lib/customizer-panels/general-panel.php:271
+msgid "Instagram profile url"
+msgstr "Instagram URLの設定"
+
+#: lib/customizer-panels/general-panel.php:285
+msgid "RSS feed (default is the wordpress feed)"
+msgstr "RSSフィード URLの設定"
+
+#: lib/customizer-panels/general-panel.php:296
+msgid "Animation settings"
+msgstr "アニメーション設定"
+
+#: lib/customizer-panels/general-panel.php:308
+msgid "Stop animation style"
+msgstr "アニメーションの停止"
+
+#: lib/customizer-panels/general-panel.php:309
+msgid "Stop the animation function of the web site."
+msgstr "サイト全体のアニメーション機能を停止する"
+
+#: lib/customizer-panels/general-panel.php:323
+msgid "Stop mobile animation style"
+msgstr "アニメーションの停止（モバイル）"
+
+#: lib/customizer-panels/general-panel.php:324
+msgid "Stop the animation function of the web site in mobile."
+msgstr "モバイルからサイトを閲覧した場合、アニメーション機能を停止する"
+
+#: lib/customizer-panels/general-panel.php:335
+#: lib/customizer-panels/general-panel.php:347
+msgid "Add QTags button"
+msgstr "クイックボタンの表示"
+
+#: lib/customizer-panels/general-panel.php:348
+msgid "Add Qtags buttons in text (HTML) mode of WordPress editor."
+msgstr "テキストエディタのクイックタグを有効にする"
+
+#: lib/customizer-panels/general-panel.php:365
+msgid "Color Scheme"
+msgstr "カラースキーム"
+
+#: lib/customizer-panels/general-panel.php:370
+msgid "Default color"
+msgstr "選択しない（初期値）"
+
+#: lib/customizer-panels/general-panel.php:371 lib/theme-customizer.php:238
+msgid "Color scheme of black"
+msgstr "ブラック"
+
+#: lib/customizer-panels/general-panel.php:372 lib/theme-customizer.php:239
+msgid "Color scheme of gray"
+msgstr "グレー"
+
+#: lib/customizer-panels/general-panel.php:373 lib/theme-customizer.php:240
+msgid "Color scheme of red"
+msgstr "レッド"
+
+#: lib/customizer-panels/general-panel.php:374 lib/theme-customizer.php:241
+msgid "Color scheme of orange"
+msgstr "オレンジ"
+
+#: lib/customizer-panels/general-panel.php:375 lib/theme-customizer.php:242
+msgid "Color scheme of pink"
+msgstr "ピンク"
+
+#: lib/customizer-panels/general-panel.php:376 lib/theme-customizer.php:243
+msgid "Color scheme of blue"
+msgstr "ブルー"
+
+#: lib/customizer-panels/general-panel.php:377 lib/theme-customizer.php:244
+msgid "Color scheme of green"
+msgstr "グリーン"
+
+#: lib/customizer-panels/general-panel.php:378 lib/theme-customizer.php:245
+msgid "Color scheme of purple"
+msgstr "パープル"
+
+#: lib/customizer-panels/general-panel.php:390
+msgid "Main color"
+msgstr "メイン"
+
+#: lib/customizer-panels/general-panel.php:403
+msgid "Link color"
+msgstr "リンク"
+
+#: lib/customizer-panels/general-panel.php:416
+msgid "Link hover"
+msgstr "リンク（hover）"
+
+#: lib/customizer-panels/general-panel.php:429
+msgid "Footer background color"
+msgstr "フッター背景"
+
+#: lib/customizer-panels/general-panel.php:442
+msgid "Footer text color"
+msgstr "フッターテキスト"
+
+#: lib/customizer-panels/general-panel.php:455
+msgid "Footer link hover"
+msgstr "フッターリンク（hover）"
+
+#: lib/customizer-panels/general-panel.php:468
+msgid "Button background color"
+msgstr "ボタン"
+
+#: lib/customizer-panels/general-panel.php:481
+msgid "Button text color"
+msgstr "ボタンテキスト"
+
+#: lib/customizer-panels/header-panel.php:15 lib/theme-setup.php:33
+msgid "Header settings"
+msgstr "ヘッダー設定"
+
+#: lib/customizer-panels/header-panel.php:34
+msgid "Header layout type"
+msgstr "ヘッダーレイアウト設定"
+
+#: lib/customizer-panels/header-panel.php:39
+msgid "Header default layout"
+msgstr "左レイアウト"
+
+#: lib/customizer-panels/header-panel.php:40
+msgid "Header center layout"
+msgstr "中央レイアウト"
+
+#: lib/customizer-panels/header-panel.php:41
+msgid "Header line layout"
+msgstr "1行レイアウト"
+
+#: lib/customizer-panels/header-panel.php:53
+msgid "Header area height (default 96px)"
+msgstr "ヘッダーエリアの高さ（初期値：96px)"
+
+#: lib/customizer-panels/header-panel.php:54
+msgid "Only header default layout and header center layout"
+msgstr "左レイアウトと中央レイアウトの高さに適用"
+
+#: lib/customizer-panels/header-panel.php:81
+msgid "Display header logo"
+msgstr "ヘッダーロゴの表示"
+
+#: lib/customizer-panels/header-panel.php:94
+msgid "Header logo height (max 96px)"
+msgstr "ロゴの高さ：PC（最大値：96)"
+
+#: lib/customizer-panels/header-panel.php:113
+msgid "Header logo height for mobile (max 60px)"
+msgstr "ロゴの高さ：モバイル（最大値：60)"
+
+#: lib/customizer-panels/header-panel.php:132
+msgid "Header description background color"
+msgstr "説明文背景色"
+
+#: lib/customizer-panels/header-panel.php:145
+msgid "Header description text color"
+msgstr "説明文"
+
+#: lib/customizer-panels/header-panel.php:158
+msgid "Header background color"
+msgstr "背景色"
+
+#: lib/customizer-panels/header-panel.php:171
+msgid "Header title color"
+msgstr "タイトル"
+
+#: lib/customizer-panels/header-panel.php:184
+msgid "Nav color (Only line layout)"
+msgstr "グローバルナビ（１行レイアウト用）"
+
+#: lib/customizer-panels/header-panel.php:194
+msgid "Global nav"
+msgstr "グローバルナビ"
+
+#: lib/customizer-panels/header-panel.php:206
+msgid "Global nav design type"
+msgstr "グローバルナビ設定"
+
+#: lib/customizer-panels/header-panel.php:211
+msgid "Default type"
+msgstr "初期値"
+
+#: lib/customizer-panels/header-panel.php:212
+msgid "Scroll tracking type"
+msgstr "位置固定"
+
+#: lib/customizer-panels/header-panel.php:224
+msgid "Header logo height (max 40px)"
+msgstr "ロゴの高さ：位置固定ナビ（最大値：40)"
+
+#: lib/customizer-panels/landing-page-panel.php:15
+#: lib/customizer-panels/landing-page-panel.php:22
+msgid "Landing page settings"
+msgstr "ランディングページ設定"
+
+#: lib/customizer-panels/page-speed-panel.php:15
+msgid "Page speed settings"
+msgstr "ページ表示速度設定"
+
+#: lib/customizer-panels/page-speed-panel.php:22
+msgid "Optimized jquery"
+msgstr "Jqueryの最適化"
+
+#: lib/customizer-panels/page-speed-panel.php:34
+msgid "Put jquery at the bottom"
+msgstr "Jqueryをフッターに移動（headタグ内で必要な場合、この設定は無効です）"
+
+#: lib/customizer-panels/page-speed-panel.php:45
+msgid "Optimized CSS"
+msgstr "CSSの最適化"
+
+#: lib/customizer-panels/page-speed-panel.php:57
+msgid "Lazy Load font-awesome.css"
+msgstr "font-awesome.cssの読み込み遅延"
+
+#: lib/customizer-panels/page-speed-panel.php:77
+msgid "Optimized HTML"
+msgstr "HTMLの最適化"
+
+#: lib/customizer-panels/template-panel.php:15 lib/theme-setup.php:37
+msgid "Template settings"
+msgstr "テンプレート設定"
+
+#: lib/customizer-panels/template-panel.php:22
+msgid "Sidebar layout"
+msgstr "サイドバーレイアウト"
+
+#: lib/customizer-panels/template-panel.php:34
+msgid "Front page sidebar layout type"
+msgstr "フロントページサイドバー"
+
+#: lib/customizer-panels/template-panel.php:39
+#: lib/customizer-panels/template-panel.php:59
+#: lib/customizer-panels/template-panel.php:79
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: lib/customizer-panels/template-panel.php:40
+#: lib/customizer-panels/template-panel.php:60
+#: lib/customizer-panels/template-panel.php:80
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: lib/customizer-panels/template-panel.php:41
+#: lib/customizer-panels/template-panel.php:61
+#: lib/customizer-panels/template-panel.php:81
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: lib/customizer-panels/template-panel.php:53
+msgid "Content sidebar layout type"
+msgstr "コンテンツページサイドバー"
+
+#: lib/customizer-panels/template-panel.php:54
+msgid "Display setting of the post, the page."
+msgstr "対象：投稿ページ・固定ページ"
+
+#: lib/customizer-panels/template-panel.php:73
+msgid "Archive sidebar layout type"
+msgstr "アーカイブページサイドバー"
+
+#: lib/customizer-panels/template-panel.php:74
+#: lib/customizer-panels/template-panel.php:124
+msgid "Display setting of the archive page."
+msgstr "対象：カテゴリーページ、タグページ、日付別ページなど"
+
+#: lib/customizer-panels/template-panel.php:90
+msgid "Entry list layout"
+msgstr "記事リストレイアウト"
+
+#: lib/customizer-panels/template-panel.php:102
+msgid "Entry list layout type"
+msgstr "記事リストの列表示"
+
+#: lib/customizer-panels/template-panel.php:103
+msgid "Display setting of the front page."
+msgstr "対象；フロントページ"
+
+#: lib/customizer-panels/template-panel.php:108
+#: lib/customizer-panels/template-panel.php:129
+#: lib/customizer-panels/template-panel.php:150
+msgid "One column"
+msgstr "1列表示"
+
+#: lib/customizer-panels/template-panel.php:109
+#: lib/customizer-panels/template-panel.php:130
+#: lib/customizer-panels/template-panel.php:151
+msgid "Two column"
+msgstr "カード型 2列表示"
+
+#: lib/customizer-panels/template-panel.php:110
+#: lib/customizer-panels/template-panel.php:131
+#: lib/customizer-panels/template-panel.php:152
+msgid "Three column"
+msgstr "カード型 3列表示"
+
+#: lib/customizer-panels/template-panel.php:111
+#: lib/customizer-panels/template-panel.php:132
+msgid "Big column"
+msgstr "ビックカード型表示"
+
+#: lib/customizer-panels/template-panel.php:123
+msgid "Archive list layout type"
+msgstr "アーカイブ記事一覧の列表示"
+
+#: lib/customizer-panels/template-panel.php:144
+msgid "Author list layout type"
+msgstr "投稿者別記事一覧の列表示"
+
+#: lib/customizer-panels/template-panel.php:145
+msgid "Display setting of the author list ."
+msgstr "対象：投稿者別の記事一覧ページ"
+
+#: lib/customizer-panels/template-panel.php:248
+msgid "Display excerpt"
+msgstr "抜粋文の表示"
+
+#: lib/customizer-panels/template-panel.php:262
+msgid "Display category nicename class"
+msgstr "カテゴリーclassの表示"
+
+#: lib/customizer-panels/template-panel.php:276
+msgid "Number of excerpt length (default 40)"
+msgstr "抜粋の長さを設定（初期値：40)"
+
+#: lib/customizer-panels/template-panel.php:294
+msgid "Excerpt more"
+msgstr "抜粋の末尾を設定"
+
+#: lib/customizer-panels/template-panel.php:308
+msgid "Display read more"
+msgstr "「続きを読む」の表示"
+
+#: lib/customizer-panels/template-panel.php:322
+msgid "Read more type"
+msgstr "「続きを読む」の設定"
+
+#: lib/customizer-panels/template-panel.php:327
+msgid "Read more"
+msgstr "続きを読む"
+
+#: lib/customizer-panels/template-panel.php:328
+msgid "Post title"
+msgstr "投稿タイトル"
+
+#: lib/modules/components/ad-300.php:14 lib/modules/components/ad-300h2.php:28
+#: lib/modules/components/ad-300under.php:29
+msgid "Ad code has not been entered in the widget."
+msgstr "ウィジェットに広告コードを貼り付ける必要があります。"
+
+#: lib/modules/components/author-profile.php:8
+msgid "About author"
+msgstr "この記事を書いた人"
+
+#: lib/modules/components/breadcrumb.php:96
+#: lib/modules/components/breadcrumb.php:102
+#: lib/modules/components/breadcrumb.php:105
+msgid "Year"
+msgstr "年"
+
+#: lib/modules/components/breadcrumb.php:98
+#: lib/modules/components/breadcrumb.php:103
+msgid "Month"
+msgstr "月"
+
+#: lib/modules/components/breadcrumb.php:100
+msgid "Day"
+msgstr "日"
+
+#: lib/modules/components/breadcrumb.php:112
+msgid "File not found"
+msgstr "File not found"
+
+#: lib/modules/components/breadcrumb.php:115
+msgid "Search results"
+msgstr "検索結果"
+
+#: lib/modules/components/facebook-follow.php:8
+msgid "If you like this article, Please click on the button"
+msgstr "この記事が気に入ったらいいね！しよう"
+
+#: lib/modules/components/post-navigation.php:11
+msgid "Next page"
+msgstr "次のページへ"
+
+#: lib/modules/components/post-navigation.php:12
+msgid "Previous page"
+msgstr "前のページへ"
+
+#: lib/modules/components/read-more.php:13
+msgid "Read More of"
+msgstr "の続きを読む"
+
+#: lib/modules/components/read-more.php:16
+msgid "Read More"
+msgstr "続きを読む"
+
+#: lib/modules/components/related-post.php:25
+msgid "Related Post"
+msgstr "関連記事"
+
+#: lib/modules/components/related-post.php:47
+msgid "Not Related Post"
+msgstr "関連記事はありません"
+
+#: lib/modules/components/sns-buttons.php:31
+msgid "hatebu"
+msgstr "はてブ"
+
+#: lib/modules/components/sns-follow.php:8
+msgid "Follow me sns"
+msgstr "SNSで購読する"
+
+#: lib/theme-admin-options.php:31 lib/theme-admin-options.php:65
+msgid "word counter:"
+msgstr "文字数："
+
+#: lib/theme-admin-options.php:79 lib/theme-admin-options.php:80
+msgid "Hide ad setting"
+msgstr "広告表示設定"
+
+#: lib/theme-admin-options.php:96
+msgid "Hide ad"
+msgstr "広告を非表示にする"
+
+#: lib/theme-admin-options.php:135
+msgid "CTA setting"
+msgstr "CTA設定"
+
+#: lib/theme-admin-options.php:150
+msgid "Common"
+msgstr "CTA（共通）"
+
+#: lib/theme-admin-options.php:160
+msgid "Hide cta"
+msgstr "CTAを非表示にする"
+
+#: lib/theme-admin-options.php:229 lib/theme-admin-options.php:230
+msgid "Featured entry setting"
+msgstr "おすすめ記事設定"
+
+#: lib/theme-admin-options.php:246
+msgid "Display featured entry"
+msgstr "おすすめ記事に表示する"
+
+#: lib/theme-admin-options.php:284 lib/theme-admin-options.php:285
+msgid "SEO setting"
+msgstr "SEO設定"
+
+#: lib/theme-admin-options.php:294
+msgid "meta keywords"
+msgstr "meta keywords"
+
+#: lib/theme-admin-options.php:296
+msgid "Set the peculiar keyword indicating this page contents.(Option)"
+msgstr "ページの内容を表すキーワードを設定してください。（任意）"
+
+#: lib/theme-admin-options.php:297
+msgid ""
+"During Meta keyword ,(separated by single-byte comma). (Example) keyword 1,"
+"keyword 2"
+msgstr ""
+"メタキーワードとメタキーワードの間は,（半角カンマ）区切りにしてください。"
+"（例）キーワード1,キーワード2"
+
+#: lib/theme-admin-options.php:299
+msgid "meta description"
+msgstr "meta description"
+
+#: lib/theme-admin-options.php:301
+msgid "Set the summarized writing indicating page contents .(Option)"
+msgstr "ページ内容に関する要約文を入力してください。（任意）"
+
+#: lib/theme-admin-options.php:302
+msgid "Input full size around 120 characters"
+msgstr "最大120文字を目安に入力してください。"
+
+#: lib/theme-admin-options.php:302
+msgid "In the case of non-input, 120 characters are extracted from the post."
+msgstr ""
+"入力しなかった場合、ページ本文の冒頭から120文字を自動で抜粋し、meta "
+"descriptionに反映します。"
+
+#: lib/theme-admin-options.php:312
+msgid "noindex"
+msgstr "noindex"
+
+#: lib/theme-admin-options.php:313
+msgid "Discourage search engines from indexing this page"
+msgstr "検索エンジンがこのページをインデックスしないようにする"
+
+#: lib/theme-admin-options.php:323
+msgid "nofollow"
+msgstr "nofollow"
+
+#: lib/theme-admin-options.php:324
+msgid "Discourage search engines from following this page"
+msgstr "検索エンジンがこのページのリンク先をフォローしないようにする"
+
+#: lib/theme-admin-options.php:392 lib/theme-admin-options.php:393
+msgid "Custom CSS setting"
+msgstr "カスタムCSS設定（このページのみに適用）"
+
+#: lib/theme-admin-options.php:403
+msgid ""
+"Enter CSS code of this page. Style tag is not required. Code example: ."
+"example { font-size: 20px; color: #000; }"
+msgstr ""
+"このページのみに適用したいCSSを入力することで、このページのデザインやレイアウ"
+"トを調整できます。styleタグの入力は不要です。入力例: .example { font-size: "
+"20px; color: #000; }"
+
+#: lib/theme-customizer.php:28
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/facebook-like/\" "
+"target=\"_blank\">Emanon Pro version</a> to add Facebook like button"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/facebook-like/\" target=\"_blank\">"
+"有料テーマ Emanon Pro</a>をご購入いただくと、Facebook likeボタン表示が可能に"
+"なります。"
+
+#: lib/theme-customizer.php:34
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/twitter-follow/\" "
+"target=\"_blank\">Emanon Pro version</a> to add twitter follow"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/twitter-follow/\" target=\"_blank"
+"\">有料テーマ Emanon Pro</a>をご購入いただくと、Twitter フォローボタンの表示"
+"が可能になります。"
+
+#: lib/theme-customizer.php:40
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/header-layout/\" "
+"target=\"_blank\">Emanon Pro version</a> to header background image"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/header-layout/\" target=\"_blank\">"
+"有料テーマ Emanon Pro</a>をご購入いただくと、ヘッダーエリアに背景画像の表示が"
+"可能になります。"
+
+#: lib/theme-customizer.php:46
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/mobile-navi/\" "
+"target=\"_blank\">Emanon Pro version</a> to mobile nav"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/mobile-navi/\" target=\"_blank\">有"
+"料テーマ Emanon Pro</a>をご購入いただくと、横スクロール対応モバイルメニューの"
+"表示が可能になります。"
+
+#: lib/theme-customizer.php:52
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/author-profile/\" "
+"target=\"_blank\">Emanon Pro version</a> to add author profile"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/author-profile/\" target=\"_blank"
+"\">有料テーマ Emanon Pro</a>をご購入いただくと、稿者プロフィールの表示が可能"
+"になります。"
+
+#: lib/theme-customizer.php:58
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/slideshow/\" target="
+"\"_blank\">Emanon Pro version</a> to add slider image"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/slideshow/\" target=\"_blank\">有料"
+"テーマ Emanon Pro</a>をご購入いただくと、スライダーセクションの表示が可能にな"
+"ります。"
+
+#: lib/theme-customizer.php:64
+msgid ""
+"Check out the<a href=\"https://wp-emanon.jp/emanon-pro/content-slideshow/\" "
+"target=\"_blank\">Emanon Pro version</a> to add slider image"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/content-slideshow/\" target="
+"\"_blank\">有料テーマ Emanon Pro</a>をご購入いただくと、スライダーコンテンツ"
+"セクションの機能が拡張されます。"
+
+#: lib/theme-customizer.php:70
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/pagebox/\" target="
+"\"_blank\">Emanon Pro version</a> to add pagebox section"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/pagebox/\" target=\"_blank\">有料"
+"テーマ Emanon Pro</a>をご購入いただくと、ページボックスセクションの表示が可能"
+"になります。"
+
+#: lib/theme-customizer.php:76
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/video/\" target="
+"\"_blank\">Emanon Pro version</a> to add video section"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/video/\" target=\"_blank\">有料テー"
+"マ Emanon Pro</a>をご購入いただくと、ヘッダー動画セクションの表示が可能になり"
+"ます。"
+
+#: lib/theme-customizer.php:82
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/header-eyecatch/\" "
+"target=\"_blank\">Emanon Pro version</a> to add video section"
+msgstr ""
+"<a href=“https://wp-emanon.jp/emanon-pro/header-eyecatch/“ target=“_blank”>有"
+"料テーマ Emanon Pro</a>をご購入いただくと、アイキャッチセクションの表示が可能"
+"になります。"
+
+#: lib/theme-customizer.php:88
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/cta/\" target="
+"\"_blank\">Emanon Pro version</a> to cta function"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/cta/\" target=\"_blank\">有料テー"
+"マ Emanon Pro</a>をご購入いただくと、CTA機能が拡張されます。"
+
+#: lib/theme-customizer.php:94
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/h-tag/\" target="
+"\"_blank\">Emanon Pro version</a> to h style optionsn"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/h-tag/\" target=\"_blank\">有料テー"
+"マ Emanon Pro</a>をご購入いただくと、hタグのスタイル設定が可能になります。"
+
+#: lib/theme-customizer.php:100
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/sns-count-cache/\" "
+"target=\"_blank\">Emanon Pro version</a> to sns count"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/sns-count-cache/\" target=\"_blank"
+"\">有料テーマ Emanon Pro</a>をご購入いただくと、SNSシェア数の表示が可能になり"
+"ます。"
+
+#: lib/theme-customizer.php:106
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/compress/\" target="
+"\"_blank\">Emanon Pro version</a> to minified"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/compress/\" target=\"_blank\">有料"
+"テーマ Emanon Pro</a>をご購入いただくと、CSS・HTML圧縮機能が拡張されます。"
+
+#: lib/theme-customizer.php:112
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/landing-page/\" "
+"target=\"_blank\">Emanon Pro version</a> to landing page"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/landing-page/\" target=\"_blank\">"
+"有料テーマ Emanon Pro</a>をご購入いただくと、ランディングページ機能が利用可能"
+"になります。"
+
+#: lib/theme-customizer.php:118
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/footer/\" target="
+"\"_blank\">Emanon Pro version</a> to footer sns follow"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/footer/\" target=\"_blank\">有料"
+"テーマ Emanon Pro</a>をご購入いただくと、フッターエリアにSNSフォローボタンの"
+"表示が可能になります。"
+
+#: lib/theme-customizer.php:124
+msgid ""
+"Check out the <a href=\"https://wp-emanon.jp/emanon-pro/mobile-footer-button/"
+"\" target=\"_blank\">Emanon Pro version</a> to mobile footer btn"
+msgstr ""
+"<a href=\"https://wp-emanon.jp/emanon-pro/mobile-footer-button/\" target="
+"\"_blank\">有料テーマ Emanon Pro</a> をご購入いただくと、投稿ページのフッター"
+"エリアに固定メニューの表示が可能になります。"
+
+#: lib/theme-setup.php:10
+msgid "Emanon Setup"
+msgstr "Emanon設定"
+
+#: lib/theme-setup.php:11
+msgid "Emanon manual"
+msgstr "Emanonマニュアル"
+
+#: lib/theme-setup.php:23
+msgid "Emanon Free setting manual"
+msgstr "Emanon Free マニュアル"
+
+#: lib/theme-setup.php:24
+msgid ""
+"Thank you for install Emanon Free. Emanon Free implements the original "
+"Customizing function."
+msgstr ""
+"Emanon Freeは、株式会社イノ・コードが開発したWordPress無料テーマです。 「外"
+"観」メニューのカスタマイズから設定を行うことで、WordPress有料テーマEmanon Pro"
+"の機能を一部ご利用いただくことができます。"
+
+#: lib/theme-setup.php:25
+msgid ""
+"Please set according to your purpose of use while the contents of the "
+"following manual."
+msgstr ""
+"下記マニュアルの内容を参考にしながら、ご利用目的に応じた設定を行ってくださ"
+"い。"
+
+#: lib/theme-setup.php:29
+msgid "Theme customization features"
+msgstr "テーマカスタマイズ機能"
+
+#: lib/theme-setup.php:40
+msgid "Widget settings"
+msgstr "ウィジェット機能【プロフィール表示・固定サイドバー】"
+
+#: lib/theme-setup.php:48
+msgid "Post sample and FAQ"
+msgstr "投稿・固定ページ（サンプル）とFAQ"
+
+#: lib/theme-setup.php:51
+msgid "Text editor"
+msgstr "テキストエディタ機能"
+
+#: lib/theme-setup.php:52
+msgid "Post format youtube googlemap"
+msgstr "投稿フォーマット: 「YouTube」「Google Map」"
+
+#: lib/theme-setup.php:53
+msgid "Template nextpage"
+msgstr "テンプレート: ページ分け"
+
+#: lib/theme-setup.php:54
+msgid "Markup html tags and formatting"
+msgstr "マークアップ: HTML タグとフォーマット"
+
+#: lib/theme-setup.php:55
+msgid "Markup image alignment"
+msgstr "マークアップ: 画像の配置"
+
+#: lib/theme-setup.php:56
+msgid "Template comments"
+msgstr "テンプレート:コメントのある記事"
+
+#: lib/theme-setup.php:64
+msgid "Infomation"
+msgstr "お知らせ"
+
+#: lib/theme-setup.php:67
+msgid "Free marketing course"
+msgstr "Web集客の考え方が学べる Emanon Pro ［無料］マーケティング講座"
+
+#: lib/theme-setup.php:68
+msgid "Buy Emanon Pro"
+msgstr "有料テーマ Emanon Prpのご案内"
+
+#: lib/theme-setup.php:69
+msgid "Buy Emanon Plug-in"
+msgstr "Emanon プラグインのご案内"
+
+#: lib/theme-tags.php:25
+msgid "Protected post."
+msgstr "非公開記事"
+
+#: lib/theme-tags.php:58 lib/theme-tags.php:142 lib/theme-tags.php:144
+#: lib/theme-tags.php:221
+msgid "Ymd"
+msgstr "Y年m月d日"
+
+#: lib/theme-tags.php:60 lib/theme-tags.php:137 lib/theme-tags.php:139
+#: lib/theme-tags.php:219
+msgid "Ym"
+msgstr "Y年m月d日"
+
+#: lib/theme-tags.php:62 lib/theme-tags.php:132 lib/theme-tags.php:134
+#: lib/theme-tags.php:217
+msgid "Y"
+msgstr "Y年"
+
+#: lib/theme-tags.php:66
+msgid "404 Error"
+msgstr "404 エラー"
+
+#: lib/theme-tags.php:91
+msgid "List of post"
+msgstr "記事一覧"
+
+#: lib/theme-tags.php:91 lib/theme-tags.php:113 lib/theme-tags.php:121
+#: lib/theme-tags.php:129 lib/theme-tags.php:134 lib/theme-tags.php:139
+#: lib/theme-tags.php:144 lib/theme-tags.php:149
+#, php-format
+msgid "%s Page"
+msgstr "%sページ目"
+
+#: lib/theme-tags.php:95
+msgid "There is no overview because this is a protected post."
+msgstr "この投稿はパスワードで保護されているためページの概要を表示できません。"
+
+#: lib/theme-tags.php:110 lib/theme-tags.php:113 lib/theme-tags.php:213
+#: lib/theme-tags.php:1179
+msgid "Category of article list"
+msgstr "カテゴリ一 記事一覧"
+
+#: lib/theme-tags.php:118 lib/theme-tags.php:121 lib/theme-tags.php:215
+#: lib/theme-tags.php:1184
+msgid "Tag of article list"
+msgstr "タグ 記事一覧"
+
+#: lib/theme-tags.php:126 lib/theme-tags.php:129
+msgid "Taxonomy of article list"
+msgstr "タクソノミー 記事一覧"
+
+#: lib/theme-tags.php:132 lib/theme-tags.php:134 lib/theme-tags.php:217
+msgid "Year of article list"
+msgstr "年別 記事一覧"
+
+#: lib/theme-tags.php:137 lib/theme-tags.php:139 lib/theme-tags.php:219
+msgid "Month of article list"
+msgstr "月別 記事一覧"
+
+#: lib/theme-tags.php:142 lib/theme-tags.php:144 lib/theme-tags.php:221
+msgid "Day of article list"
+msgstr "日別 記事一覧"
+
+#: lib/theme-tags.php:147 lib/theme-tags.php:149 lib/theme-tags.php:223
+#: lib/theme-tags.php:1189
+msgid "Author of article list"
+msgstr "投稿者別 記事一覧"
+
+#: lib/theme-tags.php:152 lib/theme-tags.php:225
+msgid "Search Result of article list"
+msgstr "検索結果の一覧"
+
+#: lib/theme-tags.php:154 lib/theme-tags.php:227
+msgid ""
+"It looks like nothing was found at this location. Maybe try a search? or "
+"check URL."
+msgstr ""
+"残念ながこちらにはページはありません。サイトのURLをご確認いただくか検索をお試"
+"しください。"
+
+#: lib/theme-tags.php:877
+msgid "Recommended Articles"
+msgstr "おすすめ記事"
+
+#: lib/theme-tags.php:1187
+msgid "Article list"
+msgstr "記事一覧"
+
+#: lib/theme-widget.php:15
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: lib/theme-widget.php:24
+msgid "Sidebar fixed"
+msgstr "固定サイドバー"
+
+#: lib/theme-widget.php:33
+msgid "Ad 300px 250px"
+msgstr "広告 300px 250px"
+
+#: lib/theme-widget.php:42
+msgid "Header right area"
+msgstr "ヘッダーエリア 右"
+
+#: lib/theme-widget.php:51
+msgid "Mobile menu area"
+msgstr "モバイルメニューエリア"
+
+#: lib/theme-widget.php:60
+msgid "Footer left area"
+msgstr "フッターエリア 左"
+
+#: lib/theme-widget.php:69
+msgid "Footer center area"
+msgstr "フッターエリア 中央"
+
+#: lib/theme-widget.php:78
+msgid "Footer right area"
+msgstr "フッターエリア 右"
+
+#: lib/theme-widget.php:94 lib/theme-widget.php:259
+msgid "Twitter profile url:"
+msgstr "Twitter URLの設定"
+
+#: lib/theme-widget.php:95 lib/theme-widget.php:266
+msgid "Facebook profile url:"
+msgstr "Facebook URLの設定"
+
+#: lib/theme-widget.php:96 lib/theme-widget.php:273
+msgid "GooglePlus profile url:"
+msgstr "Google+ URLの設定"
+
+#: lib/theme-widget.php:97 lib/theme-widget.php:280
+msgid "Instagram profile url:"
+msgstr "Instagram URLの設定"
+
+#: lib/theme-widget.php:98
+msgid "Position"
+msgstr "役職"
+
+#: lib/theme-widget.php:145 lib/theme-widget.php:148
+msgid "Profile widget"
+msgstr "プロフィール"
+
+#: lib/theme-widget.php:231
+msgid "Title:"
+msgstr "タイトル"
+
+#: lib/theme-widget.php:238
+msgid "Name:"
+msgstr "名前"
+
+#: lib/theme-widget.php:245
+msgid "Upload image URL:"
+msgstr "アップロード画像 URLの設定"
+
+#: lib/theme-widget.php:252
+msgid "Profile text:"
+msgstr "プロフィール文"
+
+#~ msgid ""
+#~ "Check out the<a href=\"https://wp-emanon.jp/emanon-pro/slideshow-contents/"
+#~ "\" target=\"_blank\">Emanon Pro version</a> to add slider image"
+#~ msgstr ""
+#~ "<a href=\"https://wp-emanon.jp/emanon-pro/slideshow-contents/“ target="
+#~ "\"_blank\">有料テーマ Emanon Pro</a>をご購入いただくと、スライダーセクショ"
+#~ "ンの表示が可能になります。"
+
+#~ msgid "Purchase"
+#~ msgstr "購入"
+
+#, fuzzy
+#~| msgid "Mobile menu area"
+#~ msgid "Mobile menu area for LP"
+#~ msgstr "モバイルメニューエリア"
+
+#~ msgid "Mobile Scroll menu"
+#~ msgstr "モバイルメニュー（サブメニュー不可）"
+
+#~ msgid "Google analytics"
+#~ msgstr "Googleアナリティクス"
+
+#~ msgid "BTN color"
+#~ msgstr "ボタン"
+
+#~ msgid "Text editor features and post sample"
+#~ msgstr "テキストエディタ機能と投稿サンプル"
+
+#~ msgid "Setting manual"
+#~ msgstr "設定マニュアル"
+
+#~ msgid "Potential customers"
+#~ msgstr "CTA（潜在客）"
+
+#~ msgid "Eventually customers"
+#~ msgstr "CTA（そのうち客）"
+
+#~ msgid "Compare customers"
+#~ msgstr "CTA（比較客）"
+
+#~ msgid "Hide popup cta"
+#~ msgstr "PopUp CTAを非表示にする"
+
+#~ msgid "Display SNS follow botton in footer"
+#~ msgstr "SNSフォローボタンの表示"
+
+#~ msgid "Footer top background color"
+#~ msgstr "SNSフォローボタンの背景色"
+
+#~ msgid "SNS layout type"
+#~ msgstr "レイアウトタイプ"
+
+#~ msgid "No count"
+#~ msgstr "シェア数の表示なし"
+
+#~ msgid "Count (Install SNS Count Cache)"
+#~ msgstr ""
+#~ "シェア数の表示あり (プラグイン：SNS Count Cacheのインストールが必要です。)"
+
+#~ msgid "SNS share mobile position"
+#~ msgstr "モバイル表示"
+
+#~ msgid "Display twitter btn on mobile"
+#~ msgstr "Twitterの表示（モバイル）"
+
+#~ msgid "Display facebook btn on mobile"
+#~ msgstr "Facebookの表示（モバイル）"
+
+#~ msgid "Display hatena btn on mobile"
+#~ msgstr "Hatenaの表示（モバイル）"
+
+#~ msgid "Display google+ btn on mobile"
+#~ msgstr "Google+の表示（モバイル）"
+
+#~ msgid "Display pocket btn on mobile"
+#~ msgstr "Pocketの表示（モバイル）"
+
+#~ msgid "H2 tag style"
+#~ msgstr "h2タグのスタイル"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Background color"
+#~ msgstr "背景色"
+
+#~ msgid "Balloon"
+#~ msgstr "吹き出し"
+
+#~ msgid "Border left"
+#~ msgstr "左ボーダー"
+
+#~ msgid "Border left background"
+#~ msgstr "左ボーダー＋背景色"
+
+#~ msgid "Border left bottom"
+#~ msgstr "左ボーダー＋下ボーダー"
+
+#~ msgid "Border bottom"
+#~ msgstr "下ボーダー"
+
+#~ msgid "Border bottom two"
+#~ msgstr "下ボーダー（2カラー）"
+
+#~ msgid "H3 tag style"
+#~ msgstr "h3タグのスタイル"
+
+#~ msgid "H4 tag style"
+#~ msgstr "h4タグのスタイル"
+
+#~ msgid "Display author profile"
+#~ msgstr "投稿者プロフィールの表示"
+
+#~ msgid "Author profile title"
+#~ msgstr "投稿者プロフィールのタイトル"
+
+#~ msgid "Display facebook like btn"
+#~ msgstr "Facebook likeボタンの表示"
+
+#~ msgid ""
+#~ "Display facebook like btn on the bottom of the post page. Facebook "
+#~ "application id ( General > Facebook OPG ) and Facebook page set of url "
+#~ "( General > SNS follow url ) is required."
+#~ msgstr ""
+#~ "Facebook application id（ 全般設定 > Facebook OPG ) と Facebookページの"
+#~ "URL ( 全般設定 > SNSフォローURL )の設定が必要です。"
+
+#~ msgid "If you like this article, press click button"
+#~ msgstr "この記事が気に入ったらいいね！をしよう"
+
+#~ msgid "Facebook like btn title"
+#~ msgstr "Facebook likeボタンのタイトル"
+
+#~ msgid "Facebook like background color"
+#~ msgstr "背景色"
+
+#~ msgid "Facebook like background color opacity"
+#~ msgstr "背景色の透過率"
+
+#~ msgid "Facebook like image"
+#~ msgstr "背景"
+
+#~ msgid "Image size recommended width 1026px height 300px."
+#~ msgstr "画像サイズは1026px 300pxを推奨します。"
+
+#~ msgid "Follow me on twitter"
+#~ msgstr "Twitterでフォローしよう"
+
+#~ msgid "Display page cta"
+#~ msgstr "CTA（固定ページ）の表示"
+
+#~ msgid "Display footer cta on front page"
+#~ msgstr "フッターCTAの表示（フロントページ）"
+
+#~ msgid "Display footer cta on page & single"
+#~ msgstr "フッターCTAの表示（投稿ページ・固定ページ）"
+
+#~ msgid "Display footer cta on archive"
+#~ msgstr "フッターCTAの表示（アーカイブページ）"
+
+#~ msgid "Display popup cta on front page"
+#~ msgstr "PopUp CTA（フロントページ）の表示"
+
+#~ msgid "Display popup cta on single"
+#~ msgstr "PopUp CTA（投稿ページ）の表示"
+
+#~ msgid "Display popup cta on page"
+#~ msgstr "PopUp CTA（固定ページ）の表示"
+
+#~ msgid "Display popup cta on archive"
+#~ msgstr "PopUp CTA（アーカイブページ）の表示"
+
+#~ msgid "Display popup cta on smartphone & tablet"
+#~ msgstr "PopUp CTA（モバイル）の表示"
+
+#~ msgid "CTA title(logo alt)"
+#~ msgstr "CTAタイトル（altタグ）"
+
+#~ msgid "Footer title url(logo url)"
+#~ msgstr "タイトルURL（ロゴURL）"
+
+#~ msgid "Display footer logo"
+#~ msgstr "フッターロゴ"
+
+#~ msgid "Footer logo height (default 46px)"
+#~ msgstr "フッターロゴの高さ（初期値：46)"
+
+#~ msgid "CTA tell"
+#~ msgstr "電話番号"
+
+#~ msgid "Text color"
+#~ msgstr "テキスト"
+
+#~ msgid "CTA title (Max：18)"
+#~ msgstr "タイトル（推奨：18文字以内）"
+
+#~ msgid "CTA title header color"
+#~ msgstr "タイトルヘッダー"
+
+#~ msgid "PopUp mobile icon"
+#~ msgstr "スイッチアイコン（モバイル）"
+
+#~ msgid "Font Awesome Icon Click"
+#~ msgstr "Font Awesomeアイコンは"
+
+#~ msgid "here"
+#~ msgstr "こちらをクリック"
+
+#~ msgid "PopUp mobile icon background color"
+#~ msgstr "スイッチ背景色（モバイル）"
+
+#~ msgid "PopUp mobile icon text color"
+#~ msgstr "アイコン（モバイル）"
+
+#~ msgid "Slider"
+#~ msgstr "スライダーセクション"
+
+#~ msgid "Video"
+#~ msgstr "動画ヘッダーセクション"
+
+#~ msgid "Page box"
+#~ msgstr "ページボックスセクション"
+
+#~ msgid "Welcome to Emanon"
+#~ msgstr "Welcome to Emanon"
+
+#~ msgid "Title[1]"
+#~ msgstr "タイトル[1]"
+
+#~ msgid "Ready to Start Your Own Business?"
+#~ msgstr "Ready to Start Your Own Business?"
+
+#~ msgid "Sub title[1]"
+#~ msgstr "サブ・タイトル[1]"
+
+#~ msgid "Slider image[1]"
+#~ msgstr "スライダー画像[1]"
+
+#~ msgid "Image size recommended width 1920px height 500px."
+#~ msgstr "画像サイズは1920px 500pxを推奨します。"
+
+#~ msgid "Title[2]"
+#~ msgstr "タイトル[2]"
+
+#~ msgid "Sub title[2]"
+#~ msgstr "サブ・タイトル[2]"
+
+#~ msgid "Slider image[2]"
+#~ msgstr "スライダー画像[2]"
+
+#~ msgid "Title[3]"
+#~ msgstr "タイトル[3]"
+
+#~ msgid "Sub title[3]"
+#~ msgstr "サブ・タイトル[3]"
+
+#~ msgid "Slider image[3]"
+#~ msgstr "スライダー画像[3]"
+
+#~ msgid "Title[4]"
+#~ msgstr "タイトル[4]"
+
+#~ msgid "Sub title[4]"
+#~ msgstr "サブ・タイトル[4]"
+
+#~ msgid "Slider image[4]"
+#~ msgstr "スライダー画像[4]"
+
+#~ msgid "Title[5]"
+#~ msgstr "タイトル[5]"
+
+#~ msgid "Sub title[5]"
+#~ msgstr "サブ・タイトル[5]"
+
+#~ msgid "Slider image[5]"
+#~ msgstr "スライダー画像[5]"
+
+#~ msgid "Slider button url"
+#~ msgstr "ボタンURL"
+
+#~ msgid "Slider button text"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "Slider message layout type"
+#~ msgstr "メッセージレイアウト"
+
+#~ msgid "Slider message left layout"
+#~ msgstr "左配置"
+
+#~ msgid "Slider message center layout"
+#~ msgstr "中央配置"
+
+#~ msgid "Slider message right layout"
+#~ msgstr "右配置"
+
+#~ msgid "Slider image height (default 500px)"
+#~ msgstr "スライダー画像の高さ（初期値：500px)"
+
+#~ msgid "Slider message height (default 200px)"
+#~ msgstr "メッセージの高さ（初期値：200px)"
+
+#~ msgid "Slider speed (default 4000)"
+#~ msgstr "スライダー画像の速度（初期値：4000)"
+
+#~ msgid "Slider animation type"
+#~ msgstr "スライダー設定"
+
+#~ msgid "Fade"
+#~ msgstr "フェード"
+
+#~ msgid "Slide"
+#~ msgstr "スライド"
+
+#~ msgid "Auto slider animation"
+#~ msgstr "スライドの自動スタート"
+
+#~ msgid "Display slider controls"
+#~ msgstr "コントロールの表示"
+
+#~ msgid "Display slider pager"
+#~ msgstr "ページャーの表示"
+
+#~ msgid "Stop text animation"
+#~ msgstr "テキストスライダーの停止"
+
+#~ msgid "Slider text animation type"
+#~ msgstr "テキストスライダー設定"
+
+#~ msgid "Slider text speed (default 4000)"
+#~ msgstr "テキストスライダーの速度（初期値：4000)"
+
+#~ msgid "Title colors"
+#~ msgstr "タイトル"
+
+#~ msgid "Sub title color"
+#~ msgstr "サブタイトル"
+
+#~ msgid "Slider button background color"
+#~ msgstr "ボタン"
+
+#~ msgid "Slider button text color"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "Slider image background color"
+#~ msgstr "背景カラーフィルター"
+
+#~ msgid "Header background color opacity"
+#~ msgstr "背景色の透過率"
+
+#~ msgid "Header Movie MP4"
+#~ msgstr "動画ヘッダー MP4"
+
+#~ msgid "Upload your video in mp4 format"
+#~ msgstr "MP4形式の動画ファイルをアップロードしてください。"
+
+#~ msgid "Select Video"
+#~ msgstr "動画を選択"
+
+#~ msgid "Change Video"
+#~ msgstr "動画を変更"
+
+#~ msgid "No video selected"
+#~ msgstr "動画が選択されていません"
+
+#~ msgid "Choose Video"
+#~ msgstr "動画を選択"
+
+#~ msgid "Substitution image"
+#~ msgstr "代替ヘッダー画像"
+
+#~ msgid "Title"
+#~ msgstr "タイトル"
+
+#~ msgid "Sub title"
+#~ msgstr "サブタイトル"
+
+#~ msgid "Button url"
+#~ msgstr "ボタン URL"
+
+#~ msgid "Button text"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "Down icon"
+#~ msgstr "アイコン"
+
+#~ msgid "Down icon color"
+#~ msgstr "アイコン"
+
+#~ msgid "Select page for list one"
+#~ msgstr "ページ選択[1]"
+
+#~ msgid "Page description for list one"
+#~ msgstr "ページ説明文[1]"
+
+#~ msgid "Select page for list two"
+#~ msgstr "ページ選択[2]"
+
+#~ msgid "Page description for list two"
+#~ msgstr "ページ説明文[2]"
+
+#~ msgid "Select page for list three"
+#~ msgstr "ページ選択[3]"
+
+#~ msgid "Page description for list three"
+#~ msgstr "ページ説明文[3]"
+
+#~ msgid "Header background image"
+#~ msgstr "背景画像"
+
+#~ msgid "Display mobile nav"
+#~ msgstr "モバイルメニューの表示"
+
+#~ msgid "Display mobile nav scroll arrow"
+#~ msgstr "右スクロールアイコン（モバイルメニュー用）の表示"
+
+#~ msgid "Display header section"
+#~ msgstr "ヘッダー画像の表示"
+
+#~ msgid "Header image height (default 400px)"
+#~ msgstr "ヘッダー画像の高さ（初期値：400px)"
+
+#~ msgid "Header message height (default 200px)"
+#~ msgstr "メッセージの高さ（初期値：200px)"
+
+#~ msgid "Header message layout type"
+#~ msgstr "メッセージレイアウト"
+
+#~ msgid "Message left layout"
+#~ msgstr "左配置"
+
+#~ msgid "Message center layout"
+#~ msgstr "中央配置"
+
+#~ msgid "Message right layout"
+#~ msgstr "右配置"
+
+#~ msgid "Looking for SEO WordPress theme?"
+#~ msgstr "Looking for SEO WordPress theme?"
+
+#~ msgid "Target message"
+#~ msgstr "ターゲットメッセージ"
+
+#~ msgid "Header button text"
+#~ msgstr "ヘッダーボタンテキスト"
+
+#~ msgid "Title color"
+#~ msgstr "タイトル"
+
+#~ msgid "Dsplay overlay pattern"
+#~ msgstr "パターンフィルター"
+
+#~ msgid "Background color opacity"
+#~ msgstr "背景色の透過率"
+
+#~ msgid "Display empathy section"
+#~ msgstr "共感セクション設定を表示する"
+
+#~ msgid "Empathy section title"
+#~ msgstr "タイトル"
+
+#~ msgid "Empathy section sub title"
+#~ msgstr "サブタイトル"
+
+#~ msgid "Trouble[1]"
+#~ msgstr "トラブル・悩み[1]"
+
+#~ msgid "Trouble[2]"
+#~ msgstr "トラブル・悩み[2]"
+
+#~ msgid "Trouble[3]"
+#~ msgstr "トラブル・悩み[3]"
+
+#~ msgid "Trouble[4]"
+#~ msgstr "トラブル・悩み[4]"
+
+#~ msgid "Trouble[5]"
+#~ msgstr "トラブル・悩み[5]"
+
+#~ msgid "Trouble list icon"
+#~ msgstr "リストアイコン"
+
+#~ msgid "Scroll down icon"
+#~ msgstr "Scroll down アイコン"
+
+#~ msgid "List icon color"
+#~ msgstr "リストアイコン"
+
+#~ msgid "Scroll down background color"
+#~ msgstr "Scroll down 背景色"
+
+#~ msgid "Scroll down icon color"
+#~ msgstr "Scroll down アイコン"
+
+#~ msgid "Advantage section settings"
+#~ msgstr "利点・強みセクション設定"
+
+#~ msgid "Display advantage section"
+#~ msgstr "利点・強みセクションの表示"
+
+#~ msgid "Advantage section title"
+#~ msgstr "タイトル"
+
+#~ msgid "Advantage section sub title"
+#~ msgstr "サブタイトル"
+
+#~ msgid "Description[1]"
+#~ msgstr "説明[1]"
+
+#~ msgid "url[1]"
+#~ msgstr "URL[1]"
+
+#~ msgid "Icon[1]"
+#~ msgstr "アイコン[1]"
+
+#~ msgid "Image[1]"
+#~ msgstr "画像[1]"
+
+#~ msgid "The minimum size of the image is the width 90px height 90px."
+#~ msgstr "画像の最小サイズは90px × 90pxです。"
+
+#~ msgid "Description[2]"
+#~ msgstr "説明[2]"
+
+#~ msgid "url[2]"
+#~ msgstr "URL[2]"
+
+#~ msgid "Icon[2]"
+#~ msgstr "アイコン[2]"
+
+#~ msgid "Image[2]"
+#~ msgstr "画像[2]"
+
+#~ msgid "Description[3]"
+#~ msgstr "説明[3]"
+
+#~ msgid "url[3]"
+#~ msgstr "URL[3]"
+
+#~ msgid "Icon[3]"
+#~ msgstr "Icon[3]"
+
+#~ msgid "Image[3]"
+#~ msgstr "画像[3]"
+
+#~ msgid "Icon color"
+#~ msgstr "アイコン"
+
+#~ msgid "Testimonial section settings"
+#~ msgstr "お客様の声セクション設定"
+
+#~ msgid "Display testimonial section"
+#~ msgstr "お客様の声セクションの表示"
+
+#~ msgid "Voice of the Customer is a minimum of two people are required."
+#~ msgstr ""
+#~ "スライドを正常に表示するために、2名以上の「お客様の声」を入力してくださ"
+#~ "い。"
+
+#~ msgid "Testimonial section title"
+#~ msgstr "タイトル"
+
+#~ msgid "Testimonial section sub title"
+#~ msgstr "サブタイトル"
+
+#~ msgid "Name[1]"
+#~ msgstr "名前[1]"
+
+#~ msgid "Testimonials[1]"
+#~ msgstr "推薦文[1]"
+
+#~ msgid "Name[2]"
+#~ msgstr "名前[2]"
+
+#~ msgid "Testimonials[2]"
+#~ msgstr "推薦文[2]"
+
+#~ msgid "Name[3]"
+#~ msgstr "名前[3]"
+
+#~ msgid "Testimonials[3]"
+#~ msgstr "推薦文[3]"
+
+#~ msgid "Name[4]"
+#~ msgstr "名前[4]"
+
+#~ msgid "Testimonials[4]"
+#~ msgstr "推薦文[4]"
+
+#~ msgid "Image[4]"
+#~ msgstr "画像[4]"
+
+#~ msgid "Name[5]"
+#~ msgstr "名前[5]"
+
+#~ msgid "Testimonials[5]"
+#~ msgstr "推薦文[5]"
+
+#~ msgid "Image[5]"
+#~ msgstr "画像[5]"
+
+#~ msgid "Name[6]"
+#~ msgstr "名前[6]"
+
+#~ msgid "Title[6]"
+#~ msgstr "タイトル[6]"
+
+#~ msgid "Testimonials[6]"
+#~ msgstr "タイトル[6]"
+
+#~ msgid "Image[6]"
+#~ msgstr "画像[6]"
+
+#~ msgid "Testimonial balloon background color"
+#~ msgstr "吹き出し背景色"
+
+#~ msgid "Testimonial balloon text color"
+#~ msgstr "吹き出しテキスト"
+
+#~ msgid "Offer section settings"
+#~ msgstr "オファーセクション設定"
+
+#~ msgid "Display offer section"
+#~ msgstr "オファーセクション設定の表示"
+
+#~ msgid "Offer section title"
+#~ msgstr "タイトル"
+
+#~ msgid "Offer section text"
+#~ msgstr "テキスト"
+
+#~ msgid "Main Image"
+#~ msgstr "画像"
+
+#~ msgid "The minimum size of the image is the width 420px."
+#~ msgstr "画像サイズの横幅は420px以上を推奨します。"
+
+#~ msgid "Fontawesome Icon Click"
+#~ msgstr "Fontawesome Iconは"
+
+#~ msgid "Offer sub title[1]"
+#~ msgstr "サブタイトル[1]"
+
+#~ msgid "Offer sub text[1]"
+#~ msgstr "テキスト[1]"
+
+#~ msgid "Offer sub title[2]"
+#~ msgstr "サブタイトル[2]"
+
+#~ msgid "Offer sub text[2]"
+#~ msgstr "テキスト[2]"
+
+#~ msgid "Offer sub title[3]"
+#~ msgstr "サブタイトル[3]"
+
+#~ msgid "Offer sub text[3]"
+#~ msgstr "テキスト[3]"
+
+#~ msgid "Offer header background color"
+#~ msgstr "ヘッダー背景色"
+
+#~ msgid "Offer title color"
+#~ msgstr "タイトル"
+
+#~ msgid "Offer background color"
+#~ msgstr "背景色"
+
+#~ msgid "Offer text color"
+#~ msgstr "テキスト"
+
+#~ msgid "Benefits section settings"
+#~ msgstr "ベネフィット・特典セクション設定"
+
+#~ msgid "Display Benefits section"
+#~ msgstr "ベネフィット・特典セクションの表示"
+
+#~ msgid "Benefits section title"
+#~ msgstr "タイトル"
+
+#~ msgid "Benefits section text"
+#~ msgstr "テキスト"
+
+#~ msgid "The minimum size of the image is the width 900px."
+#~ msgstr "画像サイズの横幅は900px以上を推奨します。"
+
+#~ msgid "Benefits[1]"
+#~ msgstr "ベネフィット・特典[1]"
+
+#~ msgid "Benefits[2]"
+#~ msgstr "ベネフィット・特典[2]"
+
+#~ msgid "Benefits[3]"
+#~ msgstr "ベネフィット・特典[3]"
+
+#~ msgid "Benefits[4]"
+#~ msgstr "ベネフィット・特典[4]"
+
+#~ msgid "Benefits[5]"
+#~ msgstr "ベネフィット・特典[5]"
+
+#~ msgid "List icon"
+#~ msgstr "リストアイコン"
+
+#~ msgid "Benefits title color"
+#~ msgstr "タイトル"
+
+#~ msgid "Benefits background color"
+#~ msgstr "背景色"
+
+#~ msgid "Benefits text color"
+#~ msgstr "テキスト"
+
+#~ msgid "Benefits list icon color"
+#~ msgstr "リストアイコン"
+
+#~ msgid "Closing section settings"
+#~ msgstr "クロージングセクション設定"
+
+#~ msgid "Display closing section"
+#~ msgstr "クロージングセクションの表示"
+
+#~ msgid "Image"
+#~ msgstr "画像"
+
+#~ msgid "The minimum size of the image is the width 1920px height 400px."
+#~ msgstr "画像サイズは1920px 400pxを推奨します。"
+
+#~ msgid "Closing section title"
+#~ msgstr "タイトル"
+
+#~ msgid "Closing section background color opacity"
+#~ msgstr "背景色の透過率"
+
+#~ msgid "Calls to action section settings"
+#~ msgstr "CTAセクション設定"
+
+#~ msgid "Display CTA for landing page"
+#~ msgstr "CTAセクションの表示"
+
+#~ msgid "CTA landing page icon"
+#~ msgstr "アイコン"
+
+#~ msgid "CTA landing page title"
+#~ msgstr "タイトル"
+
+#~ msgid "CTA landing page sub title"
+#~ msgstr "サブタイトル"
+
+#~ msgid "CTA landing page button url"
+#~ msgstr "ボタンURL"
+
+#~ msgid "CTA landing page button text"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "FAQ section settings"
+#~ msgstr "FAQセクション設定"
+
+#~ msgid "Display faq section"
+#~ msgstr "FAQセクションの表示"
+
+#~ msgid "FAQ section title"
+#~ msgstr "タイトル"
+
+#~ msgid "FAQ section sub title"
+#~ msgstr "サブタイトル"
+
+#~ msgid "Question[1]"
+#~ msgstr "Question[1]"
+
+#~ msgid "Answer[1]"
+#~ msgstr "Answer[1]"
+
+#~ msgid "Question[2]"
+#~ msgstr "Question[2]"
+
+#~ msgid "Answer[2]"
+#~ msgstr "Answer[2]"
+
+#~ msgid "Question[3]"
+#~ msgstr "Question[3]"
+
+#~ msgid "Answer[3]"
+#~ msgstr "Answer[3]"
+
+#~ msgid "Question[4]"
+#~ msgstr "Question[4]"
+
+#~ msgid "Answer[4]"
+#~ msgstr "Answer[4]"
+
+#~ msgid "Question[5]"
+#~ msgstr "Question[5]"
+
+#~ msgid "Answer[5]"
+#~ msgstr "Answer[5]"
+
+#~ msgid "Question[6]"
+#~ msgstr "Question[6]"
+
+#~ msgid "Answer[6]"
+#~ msgstr "Answer[6]"
+
+#~ msgid "FAQ header background color"
+#~ msgstr "ヘッダー背景色"
+
+#~ msgid "Postscript section settings"
+#~ msgstr "追伸セクション設定"
+
+#~ msgid "Display postscript section"
+#~ msgstr "追伸セクションの表示"
+
+#~ msgid "Postscript layout type"
+#~ msgstr "画像レイアウト"
+
+#~ msgid "Postscript right layout"
+#~ msgstr "右配置"
+
+#~ msgid "Postscript center layout"
+#~ msgstr "中央配置"
+
+#~ msgid "Postscript left layout"
+#~ msgstr "左配置"
+
+#~ msgid "Postscrip"
+#~ msgstr "追伸"
+
+#~ msgid "postscript section title"
+#~ msgstr "タイトル"
+
+#~ msgid "postscript section text"
+#~ msgstr "テキスト"
+
+#~ msgid "postscript button text"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "Mobile cta section settings"
+#~ msgstr "モバイルCTAセクション設定"
+
+#~ msgid "Display mobile cta section"
+#~ msgstr "モバイルCTAセクションの表示"
+
+#~ msgid "Ex tel:0312345678"
+#~ msgstr "入力例 tel:0312345678"
+
+#~ msgid "Ex fa fa-phone"
+#~ msgstr "入力例 fa fa-phone"
+
+#~ msgid "Ex Mail"
+#~ msgstr "入力例 Mail"
+
+#~ msgid "Ex fa fa-envelope-o"
+#~ msgstr "入力例 fa fa-envelope-o"
+
+#~ msgid "Ex fa fa-cart-plus"
+#~ msgstr "入力例 fa fa-cart-plus"
+
+#~ msgid "Mobile cta background color[1]"
+#~ msgstr "背景色[1]"
+
+#~ msgid "Text & Icon color[1]"
+#~ msgstr "テキスト&アイコン[1]"
+
+#~ msgid "Mobile cta background color[2]"
+#~ msgstr "背景色[2]"
+
+#~ msgid "Text & Icon color[2]"
+#~ msgstr "テキスト&アイコン[2]"
+
+#~ msgid "Mobile cta background colorr[3]"
+#~ msgstr "背景色[3]"
+
+#~ msgid "Text & Icon colorr[3]"
+#~ msgstr "テキスト&アイコン[3]"
+
+#~ msgid "Use binding style.css"
+#~ msgstr "CSSの圧縮"
+
+#~ msgid "Minified HTML"
+#~ msgstr "HTMLの圧縮"
+
+#~ msgid "Emanon Pro setting manual"
+#~ msgstr "Emanon Pro 設定マニュアル"
+
+#~ msgid ""
+#~ "Thank you for install Emanon Pro. Emanon Pro implements the original "
+#~ "Customizing function."
+#~ msgstr ""
+#~ "Emanon Proをインストールしていただきありがとうございます。Emanon Proはオリ"
+#~ "ジナルのカスタマイズ機能を実装しています。"
+
+#~ msgid "Page Speed settings"
+#~ msgstr "ページ表示速度設定"
+
+#~ msgid "Post"
+#~ msgstr "投稿・固定ページ"
+
+#~ msgid "Sample page"
+#~ msgstr "投稿ぺージ（サンプル例）"
+
+#~ msgid "FAQ"
+#~ msgstr "よくある質問・お問い合わせ"
+
+#~ msgid "Prospect customers"
+#~ msgstr "CTA（見込み客）"
+
+#~ msgid "Image size recommended width 1920px height 320px."
+#~ msgstr "画像サイズは1920px 400pxを推奨します。"
+
+#~ msgid "Scroll menu"
+#~ msgstr "スクロールメニュー（サブメニュー不可）"
+
+#~ msgid "header right area"
+#~ msgstr "ヘッダーエリア 右"
+
+#~ msgid "Slider image height (default 400px)"
+#~ msgstr "スライダー画像の高さ（初期値：400px)"
+
+#~ msgid "CTA title background color"
+#~ msgstr "タイトル背景色"
+
+#~ msgid "Slider image settings"
+#~ msgstr "スライダーセクション設定"
+
+#~ msgid "First View layout"
+#~ msgstr "ファーストビューレイアウト"
+
+#~ msgid "Slider image"
+#~ msgstr "スライダーセクション"
+
+#~ msgid "Featured section"
+#~ msgstr "おすすめ記事セクション"
+
+#~ msgid "Page box section"
+#~ msgstr "ページボックスセクション"
+
+#~ msgid "Entry section"
+#~ msgstr "記事セクション"
+
+#~ msgid "Display footer cta"
+#~ msgstr "CTA（フッター）の表示"
+
+#~ msgid "Number of featured (default 3)"
+#~ msgstr "おすすめ記事の表示件数（初期値：3）"
+
+#~ msgid "Featured section label"
+#~ msgstr "おすすめ記事ラベル"
+
+#~ msgid "Header message left layout"
+#~ msgstr "メッセージ 左配置"
+
+#~ msgid "Header message center layout"
+#~ msgstr "メッセージ 中央配置"
+
+#~ msgid "Header message right layout"
+#~ msgstr "メッセージ 右配置"
+
+#~ msgid "Close up section settings"
+#~ msgstr "クローズアップセクション設定"
+
+#~ msgid "Display close up section"
+#~ msgstr "クローズアップセクションの表示"
+
+#~ msgid "Close up section title"
+#~ msgstr "タイトル"
+
+#~ msgid "Close up section sub title"
+#~ msgstr "サブタイトル"
+
+#~ msgid "FAQ heading background color"
+#~ msgstr "ヘッダー背景色"
+
+#~ msgid "Title "
+#~ msgstr "タイトル"
+
+#~ msgid "Description text.set your own custom text in the Customizr screen."
+#~ msgstr "ページの説明文を表示できます。カスタマイズ画面から設定が可能です。"
+
+#~ msgid "H2 tag style "
+#~ msgstr "h3タグのスタイル"
+
+#~ msgid "H3 tag style "
+#~ msgstr "h3タグのスタイル"
+
+#~ msgid "H4 tag style "
+#~ msgstr "h4タグのスタイル"
+
+#~ msgid "Cta footer section settings"
+#~ msgstr "CTAフッター設定"
+
+#~ msgid "Cta footer title(logo alt)"
+#~ msgstr "フッタータイトル（ロゴ画像 altタグ）"
+
+#~ msgid "Cta footer tell"
+#~ msgstr "電話番号"
+
+#~ msgid "Cta footer text"
+#~ msgstr "メッセージ"
+
+#~ msgid "Cta footer button url"
+#~ msgstr "ボタンURL"
+
+#~ msgid "Cta footer button background color"
+#~ msgstr "ボタン"
+
+#~ msgid "Cta footer  button text color"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "Calls to action for single option"
+#~ msgstr "CTA投稿記事設定"
+
+#~ msgid "Display CTA for single"
+#~ msgstr "CTAの表示"
+
+#~ msgid "CTA single image"
+#~ msgstr "CTA画像"
+
+#~ msgid "CTA single title"
+#~ msgstr "タイトル"
+
+#~ msgid "CTA single text"
+#~ msgstr "テキスト"
+
+#~ msgid "CTA single button url"
+#~ msgstr "ボタンURL"
+
+#~ msgid "CTA single button text"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "CTA single background color"
+#~ msgstr "背景色"
+
+#~ msgid "CTA single title color"
+#~ msgstr "タイトル"
+
+#~ msgid "CTA single text color"
+#~ msgstr "テキスト"
+
+#~ msgid "CTA single button background color"
+#~ msgstr "ボタン"
+
+#~ msgid "CTA single button text color"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "Calls to action for page option"
+#~ msgstr "CTA固定ページ設定"
+
+#~ msgid "Display CTA for page"
+#~ msgstr "CTAの表示"
+
+#~ msgid "CTA page image"
+#~ msgstr "CTA画像"
+
+#~ msgid "CTA page title"
+#~ msgstr "タイトル"
+
+#~ msgid "CTA page text"
+#~ msgstr "テキスト"
+
+#~ msgid "CTA page button text"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "CTA page background color"
+#~ msgstr "背景色"
+
+#~ msgid "CTA page title color"
+#~ msgstr "タイトル"
+
+#~ msgid "CTA page text color"
+#~ msgstr "テキスト"
+
+#~ msgid "CTA page button background color"
+#~ msgstr "ボタン"
+
+#~ msgid "CTA page button text color"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "Display cta_footer section"
+#~ msgstr "CTAの表示"
+
+#~ msgid "Accent color"
+#~ msgstr "アクセント"
+
+#~ msgid "Replace async tag"
+#~ msgstr "asyncタグによるJquery非同期化"
+
+#~ msgid "Minified style.css"
+#~ msgstr "style.cssの圧縮版切り替え"
+
+#~ msgid "Lazy Load animate.css"
+#~ msgstr "animate.cssの読み込み遅延"
+
+#~ msgid "Lazy Load emanon styl.css"
+#~ msgstr "emanon styl.css（子テーマ用）の読み込み遅延"
+
+#~ msgid "Display setting of the post, the page and the archive page."
+#~ msgstr ""
+#~ "投稿ページ・固定ページ・アーカイブページ（カテゴリーページなど）の表示設定"
+
+#~ msgid "Display setting of the front page and the archive page."
+#~ msgstr ""
+#~ "フロントページ及びアーカイブページ（カテゴリーページなど）の表示設定"
+
+#~ msgid "Hide cta setting"
+#~ msgstr "CTA表示設定"
+
+#~ msgid "CSS is optimized"
+#~ msgstr "CSS最適化"
+
+#~ msgid ""
+#~ "Thank you for install Emanon. Emanon implements the original Customizing "
+#~ "function."
+#~ msgstr ""
+#~ "Emanonをインストールしていただきありがとうございます。Emanonはオリジナルの"
+#~ "カスタマイズ機能を実装しています。"
+
+#~ msgid "If you have any questions, please feel free to contact us."
+#~ msgstr "設定マニュアルで解決しない場合は、お気軽にお問合せください。"
+
+#~ msgid "Innocord Inc."
+#~ msgstr "株式会社イノ・コード"
+
+#~ msgid "Contact us"
+#~ msgstr "お問い合わせ"
+
+#~ msgid "Footer logo（title) url"
+#~ msgstr "ロゴ(フッタータイトル）URL"
+
+#~ msgid "Footer logo url"
+#~ msgstr "ロゴURL"
+
+#~ msgid "Footer area left"
+#~ msgstr "フッターエリア 左"
+
+#~ msgid "Footer area center"
+#~ msgstr "フッターエリア 中央"
+
+#~ msgid "Footer area right"
+#~ msgstr "フッターエリア 右"
+
+#~ msgid "Footer sitename or logo"
+#~ msgstr "ロゴまたはサイト名の表示"
+
+#~ msgid "Footer logo height (default 60px)"
+#~ msgstr "フッターロゴの高さ（初期値：60)"
+
+#~ msgid "Display featured section"
+#~ msgstr "おすすめ記事セクションの表示"
+
+#~ msgid "Contact section settings"
+#~ msgstr "コンタクトセクション設定"
+
+#~ msgid "Display contact section"
+#~ msgstr "コンタクトセクションの表示"
+
+#~ msgid "Contact title"
+#~ msgstr "タイトル"
+
+#~ msgid "Contact tell"
+#~ msgstr "電話番号"
+
+#~ msgid "Contact text"
+#~ msgstr "テキスト（営業時間）"
+
+#~ msgid "Ad 728px 90px"
+#~ msgstr "広告 728px 90px"
+
+#~ msgid "Contact E-mail address"
+#~ msgstr "E-mailアドレスの設定"
+
+#~ msgid "Display SNS follow botton in header"
+#~ msgstr "SNSフォローボタンの表示"
+
+#~ msgid "Header logo height (max 60px)"
+#~ msgstr "ヘッダーロゴの高さ（最大値：60)"
+
+#~ msgid "Header ad 728px 90px"
+#~ msgstr "ヘッダー広告 728px 90px"
+
+#~ msgid "Display feedly btn"
+#~ msgstr "Feedlyシェアボタンの表示"
+
+#~ msgid "Closing section image height (default 300px)"
+#~ msgstr "クロージングセクション画像の高さ（初期値：300px)"
+
+#~ msgid "Featured background image opacity "
+#~ msgstr "背景画像の透過率"
+
+#~ msgid "Header button background color"
+#~ msgstr "ヘッダーボタン"
+
+#~ msgid "Header button text color"
+#~ msgstr "ヘッダーボタンテキスト"
+
+#~ msgid "Header image background color"
+#~ msgstr "背景カラーフィルターの透過率"
+
+#~ msgid "Testimonial background color"
+#~ msgstr "背景色"
+
+#~ msgid "Testimonial text color"
+#~ msgstr "テキスト"
+
+#~ msgid "FAQ heading text color"
+#~ msgstr "ヘッダーテキスト"
+
+#~ msgid "FAQ background color"
+#~ msgstr "背景色"
+
+#~ msgid "FAQ text color"
+#~ msgstr "テキスト"
+
+#~ msgid "Closing section background color"
+#~ msgstr "クロージングセクション背景色"
+
+#~ msgid "CTA landing page text"
+#~ msgstr "テキスト"
+
+#~ msgid "CTA landing page background color"
+#~ msgstr "背景色"
+
+#~ msgid "CTA landing page title color"
+#~ msgstr "タイトル"
+
+#~ msgid "CTA landing page text color"
+#~ msgstr "テキスト"
+
+#~ msgid "CTA landing page button background color"
+#~ msgstr "ボタン"
+
+#~ msgid "CTA landing page button text color"
+#~ msgstr "ボタンテキスト"
+
+#~ msgid "CTA landing page icon color"
+#~ msgstr "アイコン"
+
+#~ msgid "Bottom contact section settings"
+#~ msgstr "ボトムコンタクトセクション設定"
+
+#~ msgid "Display bottom contact"
+#~ msgstr "ボトムコンタクトセクションの表示"
+
+#~ msgid "Bottom contact title"
+#~ msgstr "タイトル"
+
+#~ msgid "Bottom contact tell"
+#~ msgstr "電話番号"
+
+#~ msgid "Bottom contact text"
+#~ msgstr "テキスト（営業時間など）"
+
+#~ msgid "Bottom contact background color"
+#~ msgstr "背景色"
+
+#~ msgid "Bottom contact text color"
+#~ msgstr "テキスト"
+
+#~ msgid "Front page"
+#~ msgstr "フロントページ設定"
+
+#~ msgid "First view design"
+#~ msgstr "ファーストビューデザイン"
+
+#~ msgid "First view type"
+#~ msgstr "ファーストビュー設定"
+
+#~ msgid "Display slider image"
+#~ msgstr "スライダー画像"
+
+#~ msgid "Display header image"
+#~ msgstr "ヘッダー画像"
+
+#~ msgid "None display image"
+#~ msgstr "画像なし"
+
+#~ msgid "Stop text animation type"
+#~ msgstr "テキストスライダーの停止"
+
+#~ msgid "Slider background color opacity"
+#~ msgstr "背景カラーフィルターの透過率"
+
+#~ msgid "Newsticker section"
+#~ msgstr "ニュースティッカーセクション"
+
+#~ msgid "Display newsticker section"
+#~ msgstr "ニュースティッカーセクションの表示"
+
+#~ msgid "NEWS"
+#~ msgstr "NEWS"
+
+#~ msgid "Newsticker section title"
+#~ msgstr "タイトル"
+
+#~ msgid "Number of newsticker (default 5)"
+#~ msgstr "記事の表示件数（初期値：5件)"
+
+#~ msgid "Close up section"
+#~ msgstr "クローズアップセクション"
+
+#~ msgid "Service section"
+#~ msgstr "サービスセクション"
+
+#~ msgid "Display service section"
+#~ msgstr "サービスセクションの表示"
+
+#~ msgid "Service section title"
+#~ msgstr "タイトル"
+
+#~ msgid "Service section sub title"
+#~ msgstr "サブタイトル"
+
+#~ msgid "Service background color"
+#~ msgstr "背景色"
+
+#~ msgid "Service text color"
+#~ msgstr "テキスト"
+
+#~ msgid "Select page for list four"
+#~ msgstr "ページ選択[4]"
+
+#~ msgid "Page description for list four"
+#~ msgstr "ページ説明文[4]"
+
+#~ msgid "Testimonial section"
+#~ msgstr "お客様の声セクション"
+
+#~ msgid "Featured post"
+#~ msgstr "おすすめ記事"
+
+#~ msgid "Featured section title"
+#~ msgstr "おすすめ記事のタイトル"
+
+#~ msgid "Display entry section"
+#~ msgstr "記事セクションの表示"
+
+#~ msgid "Custom CSS"
+#~ msgstr "カスタムCSS"
+
+#~ msgid ""
+#~ "Enter CSS code of this page. Style tag is not required. Code example: ."
+#~ "example { font-size: 20px; color: #000; } "
+#~ msgstr ""
+#~ "このページのみに適用したいCSSを入力することで、このページのデザインやレイ"
+#~ "アウトを調整できます。<style>タグの入力は不要です。入力例：.example "
+#~ "{ font-size: 20px; color: #000; }"
+
+#~ msgid "CTA landing page image"
+#~ msgstr "CTA画像"
+
+#~ msgid "CTA landing_page title color"
+#~ msgstr "CTAタイトル"
+
+#~ msgid "News posts"
+#~ msgstr "投稿（お知らせ）"
+
+#~ msgid "News posts list"
+#~ msgstr "投稿一覧"
+
+#~ msgid "News"
+#~ msgstr "News"
+
+#~ msgid "Featured background color opacity "
+#~ msgstr "背景の透過"
+
+#~ msgid "FAQ section"
+#~ msgstr "FAQセクション"
+
+#~ msgid "Closing section"
+#~ msgstr "クロージングセクション"
+
+#~ msgid "Calls to action section"
+#~ msgstr "CTAセクション"
+
+#~ msgid "Free WordPress Theme emanon"
+#~ msgstr "Free WordPress Theme emanon"
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe check URL or Find "
+#~ "page again from the following methods."
+#~ msgstr ""
+#~ "お探しのページがは見つかりませんでした。URLをご確認いただくか、ページ検索"
+#~ "または下記カテゴリーからお探しください。"
+
+#~ msgid "Global settings"
+#~ msgstr "全般設定"
+
+#~ msgid "Featured background color opacity"
+#~ msgstr "背景色の透過"
+
+#~ msgid "Featured background image blur (default 40)"
+#~ msgstr "背景画像のブラー（初期値40)"
+
+#~ msgid "Ad 300px 300px"
+#~ msgstr "広告 300px 300px"
+
+#~ msgid "Ad 336px 280px"
+#~ msgstr "広告 336px 280px"
+
+#~ msgid "Ad 320px 100px"
+#~ msgstr "広告 320px 100px"
+
+#~ msgid "Display ad on header"
+#~ msgstr ""
+#~ "ヘッダーに広告を表示する （ヘッダーレイアウトが２行レイアウト時に適用）"
+
+#~ msgid "Advertising label"
+#~ msgstr "広告ラベル"
+
+#~ msgid "Recommended (\" advertising \" or \" sponsored links \")"
+#~ msgstr "「広告」または「スポンサーリンク」を推奨"
+
+#~ msgid "Side bar ad 300px 300px"
+#~ msgstr "サイドバー広告 300px 300px"
+
+#~ msgid "Article h2 over left ad 300px 300px"
+#~ msgstr "h2の左上 広告 300px 300px"
+
+#~ msgid "Article h2 over right ad 300px 300px"
+#~ msgstr "h2の右上 広告 300px 300px"
+
+#~ msgid "Article under left ad 300px 300px"
+#~ msgstr "ページ左下 広告 300px 300px"
+
+#~ msgid "Article under right ad 300px 300px"
+#~ msgstr "ページ右下 広告 300px 300px"
+
+#~ msgid "Article h2 over left ad 336px 280px"
+#~ msgstr "h2の左上 広告 336px 280px"
+
+#~ msgid "Article h2 over right ad 336px 280px"
+#~ msgstr "h2の右上 広告 336px 280px"
+
+#~ msgid "Article under left ad 336px 280px"
+#~ msgstr "ページ左下 広告 336px 280px"
+
+#~ msgid "Article under right ad 336px 280px"
+#~ msgstr "ページ右下 広告 336px 280px"
+
+#~ msgid "Header one line layout"
+#~ msgstr "１行レイアウト"
+
+#~ msgid "Ad 250px 250px"
+#~ msgstr "広告 250px 250px"
+
+#~ msgid "Side bar ad 250px 250px"
+#~ msgstr "サイドバー 広告 250px 250px"
+
+#~ msgid "Title under ad 728px 90px"
+#~ msgstr "タイトル下 広告 728px 90px"
+
+#~ msgid "Contact message"
+#~ msgstr "メッセージ"
+
+#~ msgid "Phone number"
+#~ msgstr "電話番号"
+
+#~ msgid "Contact time"
+#~ msgstr "営業時間"
+
+#~ msgid "Contact address"
+#~ msgstr "住所"
+
+#~ msgid "Call to action button"
+#~ msgstr "CTAボタン（ヘッダー用）"
+
+#~ msgid "Display cta key visual"
+#~ msgstr "CTAボタンの表示"
+
+#~ msgid "CTA key visual button url"
+#~ msgstr "CTAボタンURL"
+
+#~ msgid "CTA key visual button text"
+#~ msgstr "CTAボタンテキスト"
+
+#~ msgid "CTA key visual button background color"
+#~ msgstr "CTAボタン"
+
+#~ msgid "CTA key visual button text color"
+#~ msgstr "CTAボタンテキスト"
+
+#~ msgid "Calls to action for footer option"
+#~ msgstr "CTAボタン（フッター用）"
+
+#~ msgid "Display CTA for footer"
+#~ msgstr "CTAボタンの表示"
+
+#~ msgid "CTA footer title"
+#~ msgstr "CTAタイトル"
+
+#~ msgid "CTA footer description"
+#~ msgstr "CTA説明文"
+
+#~ msgid "CTA footer button url"
+#~ msgstr "CTAボタンURL"
+
+#~ msgid "CTA footer button text"
+#~ msgstr "CTAボタンテキスト"
+
+#~ msgid "CTA footer background color"
+#~ msgstr "背景カラーフィルター"
+
+#~ msgid "CTA footer background opacity"
+#~ msgstr "背景カラーフィルターの透過率"
+
+#~ msgid "CTA footer image"
+#~ msgstr "CTA背景画像"
+
+#~ msgid "CTA footer text color"
+#~ msgstr "CTAテキスト"
+
+#~ msgid "CTA footer button background color"
+#~ msgstr "CTAボタン"
+
+#~ msgid "CTA footer button text color"
+#~ msgstr "CTAボタンテキスト"
+
+#~ msgid "Display Contact information"
+#~ msgstr "問い合わせ情報の表示"
+
+#~ msgid "Ready to begin your business?"
+#~ msgstr "Ready to begin your business?"
+
+#~ msgid "Display in the case of header default layout."
+#~ msgstr "２行レイアウト（初期値）場合のみ、表示されます。"
+
+#~ msgid "Dsplay overlay"
+#~ msgstr "ドット柄を画像にかぶせる"
+
+#~ msgid "Sub title[6]"
+#~ msgstr "サブ・タイトル[6]"
+
+#~ msgid "Slider image[6]"
+#~ msgstr "スライダー画像[6]"
+
+#~ msgid "Blue"
+#~ msgstr "ブルー（#6ecbe6）"
+
+#~ msgid "Black"
+#~ msgstr "ブラック（#1b1b1b）"
+
+#~ msgid "Green"
+#~ msgstr "グリーン（#1ec6aa）"
+
+#~ msgid "Orange"
+#~ msgstr "オレンジ（#f67d22）"
+
+#~ msgid "Beige"
+#~ msgstr "ベージュ（#e0c8a0）"
+
+#~ msgid "Pink"
+#~ msgstr "ピンク（#ff73a2）"
+
+#~ msgid "Global nav width (default 32px)"
+#~ msgstr "グローバルナビ 横幅（初期値：32px)"
+
+#~ msgid "Display header image type"
+#~ msgstr "ファーストビューの種類"
+
+#~ msgid "Stop animation"
+#~ msgstr "フロントページのアニメーション停止"
+
+#~ msgid "Global nav width (default 16px)"
+#~ msgstr "グローバルナビ 横幅（初期値：16px)"
+
+#~ msgid "Image size recommended width 728px height 200px."
+#~ msgstr "画像サイズは728px 200pxを推奨します。"
+
+#~ msgid "Display header top"
+#~ msgstr "ヘッダートップラインの表示"
+
+#~ msgid "Description text：set your own custom text in the Customizr screen."
+#~ msgstr ""
+#~ "リンク先ページの説明が表示できます。：カスタマイズ画面から設定が可能です。"
+
+#~ msgid "Front section setting"
+#~ msgstr "フロントセクション設定"
+
+#~ msgid "Display newsticker"
+#~ msgstr "ニュースティッカーの表示"
+
+#~ msgid "Service description"
+#~ msgstr "表示説明文"
+
+#~ msgid "Set the summarized writing indicating service contents (Option)."
+#~ msgstr ""
+#~ "サービスセクション内で表示する説明文を入力してください。未入力の場合、ペー"
+#~ "ジ本文の冒頭から抜粋し表示されます。（任意）"
+
+#~ msgid "Common Layout design"
+#~ msgstr "共通レイアウトデザイン"
+
+#~ msgid "Sidebar layout type"
+#~ msgstr "サイドバー配置"
+
+#~ msgid "Entry layout type"
+#~ msgstr "投稿記事リストのレイアウト"
+
+#~ msgid "Service article type"
+#~ msgstr "表示コンテンツの種類"
+
+#~ msgid "Maximum number of posts (default 4)"
+#~ msgstr "最大表示件数（初期値：4件)"
+
+#~ msgid "Facebook Admins id"
+#~ msgstr "Facebook Admins id"
+
+#~ msgid "Post list option"
+#~ msgstr "投稿記事リスト"
+
+#~ msgid ""
+#~ "Image size recommended width 1920px height 400px. To view image, adjust "
+#~ "color filter transmittance"
+#~ msgstr ""
+#~ "画像サイズは1920px 400pxを推奨します。注意：背景カラーフィルターの透過率を"
+#~ "調整してください。"
+
+#~ msgid "Header message height (default 190px)"
+#~ msgstr "メッセージの高さ（初期値：190px)"
+
+#~ msgid "Slider message height (default 190px)"
+#~ msgstr "メッセージの高さ（初期値：190px)"
+
+#~ msgid "Newsticker"
+#~ msgstr "ニュースティッカー"
+
+#~ msgid "Display Service section"
+#~ msgstr "サービスセクションの表示"
+
+#~ msgid "close up section title"
+#~ msgstr "タイトル"
+
+#~ msgid "close up section sub title"
+#~ msgstr "サブタイトル"
+
+#~ msgid "Maximum number of posts per service posts (default 4)"
+#~ msgstr "表示記事の最大件数（初期値：4件）"
+
+#~ msgid "Hide ads per article"
+#~ msgstr "広告の非表示設定（ページ単位）"
+
+#~ msgid ""
+#~ "Enter ID of single page or page ,(separated by single-byte comma).Input "
+#~ "example 1111,2222,3333"
+#~ msgstr ""
+#~ "広告を表示したくない投稿ページまたは固定ページのIDを入力してください。IDを"
+#~ "複数入力する場合は、，(半角カンマ）区切りにしてください。入力例 "
+#~ "1111,2222,3333"
+
+#~ msgid "Display about us section"
+#~ msgstr "About usセクションの表示"
+
+#~ msgid "Display this article to about us section"
+#~ msgstr "このページをAbout usセクションに表示する。"
+
+#~ msgid "About us description"
+#~ msgstr "About us セクション用のページ説明文"
+
+#~ msgid "Set the summarized writing indicating about us contents (Option)."
+#~ msgstr "ページ内容に関する要約文を入力してください。（任意）"
+
+#~ msgid "In the case of non-input, extracted from the post."
+#~ msgstr ""
+#~ "入力しなかった場合、ページ本文の冒頭部分がAbout usセクションに反映されま"
+#~ "す。"
+
+#~ msgid "Display this article to featured section"
+#~ msgstr "このページをおすすめ記事セクションに表示する。"
+
+#~ msgid "Contact info"
+#~ msgstr "問い合わせ情報"
+
+#~ msgid "Button Text"
+#~ msgstr "お問い合わせボタン"
+
+#~ msgid "Copyright background color"
+#~ msgstr "Copyright背景色"
+
+#~ msgid "Header image Opacity"
+#~ msgstr "ヘッダー画像 カラーフィルタ透過率"
+
+#~ msgid "About us section"
+#~ msgstr "About us セクション"
+
+#~ msgid "About us article type"
+#~ msgstr "表示するページの種類"
+
+#~ msgid "Maximum number of posts per about us posts (default 4)"
+#~ msgstr "About usセクションに表示する記事の最大件数（初期値：4件)"
+
+#~ msgid "About us background color"
+#~ msgstr "About us セクションの背景色"
+
+#~ msgid "About us text color"
+#~ msgstr "About us セクションのテキスト色"
+
+#~ msgid "Header logo height (default 60px)"
+#~ msgstr "ロゴの高さ（初期値：60px)"
+
+#~ msgid "Display envelope for header"
+#~ msgstr "問い合わせボタンの表示"
+
+#~ msgid "Display tel for header"
+#~ msgstr "電話番号の表示"
+
+#~ msgid "CTA footer title color"
+#~ msgstr "CTAタイトルの色"
+
+#~ msgid "Header logo height (default 56px)"
+#~ msgstr "ヘッダーロゴの高さ（初期値：56px)"
+
+#~ msgid ""
+#~ "In the case of non-input, a keyword common throughout all pages is "
+#~ "reflected"
+#~ msgstr ""
+#~ "未入力の場合には、全ページにわたって共通のキーワードが反映されます。"
+
+#~ msgid "Display SNS share bottom on the posted page body end."
+#~ msgstr "投稿ページの下部に表示"
+
+#~ msgid "Display SNS share bottom on the bottom of the post page title."
+#~ msgstr "投稿ページの上部に表示"
+
+#~ msgid "Display author profile on the bottom of the post page."
+#~ msgstr "投稿ページの下部に表示"
+
+#~ msgid "Display SNS follow button on the bottom of the post page."
+#~ msgstr "投稿ページの下部に表示"
+
+#~ msgid "Display related post on the bottom of the post page."
+#~ msgstr "投稿ページの下部に表示"
+
+#~ msgid "Default typee"
+#~ msgstr "初期値"
+
+#~ msgid "Enter ID of single page or page ,(separated by single-byte comma)."
+#~ msgstr ""
+#~ "広告を表示したくない投稿ページまたは固定ページのIDを入力してください。IDを"
+#~ "複数入力する場合は、，(半角カンマ）区切りにしてください。"
+
+#~ msgid "Input example 1111,2222,3333"
+#~ msgstr "入力例 1111,2222,3333"
+
+#~ msgid "Footer Area Left"
+#~ msgstr "フッター左"
+
+#~ msgid "Footer Area Center"
+#~ msgstr "フッター中央"
+
+#~ msgid "Footer Area Right"
+#~ msgstr "フッター右"
+
+#~ msgid "SEO Setting"
+#~ msgstr "SEO設定"
+
+#~ msgid "h1"
+#~ msgstr "h1"
+
+#~ msgid ""
+#~ "During Meta keyword, separated by single-byte comma. (Example) keyword "
+#~ "1 , keyword 2"
+#~ msgstr ""
+#~ "キーワードの間は、半角カンマで区切ってください。 （例）キーワード1,キー"
+#~ "ワード"
+
+#~ msgid ""
+#~ "Set the summarized writing indicating page contents required.(Option)"
+#~ msgstr "ページ内容を示す要約文を入力してください。（任意）"
+
+#~ msgid ""
+#~ "In the case of non-input, 120 characters are extracted from the page text."
+#~ msgstr "未入力の場合、ページの先頭から120文字を自動で抽出します。"
+
+#~ msgid "H1 is heading on the summary of content.(Option)"
+#~ msgstr "h1タグはコンテンツの要約を表す見出し文です。（任意）"
+
+#~ msgid "In the case of non-input, the title will be displayed"
+#~ msgstr "未入力の場合は、ページのタイトル名が反映されます。"
+
+#~ msgid "Enter the ID including @ mark"
+#~ msgstr "@マークを含むTwitter IDを入力"
+
+#~ msgid "SNS follow links"
+#~ msgstr "SNSフォローボタン"
+
+#~ msgid "Header design"
+#~ msgstr "デザイン"
+
+#~ msgid "Fixing typee"
+#~ msgstr "固定タイプ"
+
+#~ msgid "No display image"
+#~ msgstr "画像なし"
+
+#~ msgid "Header message height (default 192px)"
+#~ msgstr "ヘッダーメッセージの高さ（初期値：192px)"
+
+#~ msgid "Slider message height (default 192px)"
+#~ msgstr "スライダーメッセージの高さ（初期値：192px)"
+
+#~ msgid "Slider speed (default 3000)"
+#~ msgstr "スライダー速度（初期値：3000)"
+
+#~ msgid "Column type"
+#~ msgstr "カラムの種類"
+
+#~ msgid "Focus section"
+#~ msgstr "フォーカスセクション"
+
+#~ msgid "Display focus_section"
+#~ msgstr "フォーカスセクションの表示"
+
+#~ msgid "Focus section title"
+#~ msgstr "フォーカスセクション タイトル"
+
+#~ msgid "Focus section sub title"
+#~ msgstr "フォーカスセクション サブタイトル"
+
+#~ msgid "List page option"
+#~ msgstr "リストページ"
+
+#~ msgid "Footer design"
+#~ msgstr "デザイン"
+
+#~ msgid "Copyright Text"
+#~ msgstr "Copyright テキストの設定"
+
+#~ msgid "Page %s"
+#~ msgstr "ページ %s"
+
+#~ msgid "Header image height (default 320px)"
+#~ msgstr "ヘッダー画像の高さ（初期値：320px)"
+
+#~ msgid "Header message height (default 224px)"
+#~ msgstr "メッセージの高さ（初期値：224px)"
+
+#~ msgid "Slider image height (default 320px)"
+#~ msgstr "スライダー画像の高さ（初期値：320px)"
+
+#~ msgid "Slider message height (default 224px)"
+#~ msgstr "メッセージの高さ（初期値：224px)"
